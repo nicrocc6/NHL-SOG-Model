@@ -6,7 +6,7 @@ Projects shots on goal (SOG) for every NHL skater in tonight's games. It gives t
 
 Shots on goal ≈ **ice time × shot rate × matchup**.
 
-1. **Ice time:** Recent time on ice weighted toward the most recent games (5-, 15- and 40-game exponential averages), plus the last game and power-play time.
+1. **Ice time:** Recent time on ice weighted toward the most recent games (5-, 15- and 40-game exponential averages), plus the last game. (Power-play time was tested and dropped. It changed backtest log loss by just 0.0003, because total TOI already captures it.)
 2. **Shot rate:** SOG per 60 and shot attempts per 60 over the same windows. A shrunk rate pulls players with little ice time toward the average for their position (forward or defence). Attempts are a steadier signal than SOG, so they help separate real skill from hot streaks.
 3. **Matchup and context:** The opponent's recent shots allowed, the player's own team's shot volume, home/away, and back-to-backs for both teams.
 4. **Model:** A gradient-boosted model with a Poisson loss predicts mean SOG. A **negative binomial** distribution (dispersion α ≈ 0.06) turns that mean into probabilities. Shot counts vary more than a Poisson distribution allows, so this prices overs and unders more accurately.
@@ -16,8 +16,8 @@ Every feature uses only games played **before** the game being predicted. There 
 
 ## Data
 
-- [MoneyPuck](https://moneypuck.com) game-by-game skater logs, 2022-23 to now: TOI, SOG, attempts, and 5-on-4 splits
-- [NHL API](https://api-web.nhle.com) for tonight's schedule and current rosters
+- **History (2022-23 to Nov 11, 2026):** a one-time pull of [MoneyPuck](https://moneypuck.com) game-by-game skater logs. MoneyPuck asks anyone pulling its data regularly to get a data license, so `fetch_data.py` is kept only as a record of how the history was built.
+- **Daily updates:** the official [NHL API](https://api-web.nhle.com), with box scores (TOI, SOG, shifts) and play-by-play (missed and blocked attempts), plus schedule and rosters. About 2 requests per game. Checked against MoneyPuck on 72 games / 2,592 player-games: SOG 99.8% and attempts 99.7% identical, TOI 100% within 5 seconds.
 
 ## Backtest
 
@@ -41,7 +41,7 @@ Lower log loss is better. On the main lines the model beats a "recent average" b
 
 ```bash
 pip install -r requirements.txt
-python src/fetch_data.py 2022     # ~2.5 min; rerun each game day for last night's games
+python src/update_data.py        # each game day: add last night's games from the NHL API
 python src/train.py               # backtest + saves models/sog_gbm.joblib (retrain every few weeks)
 python src/predict.py             # today's projections -> results/projections_YYYY-MM-DD.csv
 python src/predict.py 2026-11-12  # or a specific date

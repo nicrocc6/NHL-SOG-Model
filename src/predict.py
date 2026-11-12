@@ -68,9 +68,8 @@ if __name__ == "__main__":
 
     d["name"] = d.playerId.map(NAMES).fillna(d.name)
     d["proj_sog"] = np.clip(bundle["model"].predict(d[bundle["features"]]), 0.05, None) * bundle["scale"]
-    out = d[["name", "playerTeam", "opposingTeam", "home_or_away", "position", "toi_proj", "pp_toi_ewm15", "proj_sog"]].rename(
-        columns={"playerTeam": "team", "opposingTeam": "opp", "home_or_away": "venue", "toi_proj": "proj_toi",
-                 "pp_toi_ewm15": "pp_toi_recent"})
+    out = d[["name", "playerTeam", "opposingTeam", "home_or_away", "position", "toi_proj", "proj_sog"]].rename(
+        columns={"playerTeam": "team", "opposingTeam": "opp", "home_or_away": "venue", "toi_proj": "proj_toi"})
     for L in LINES:
         p = p_over(L, out.proj_sog.values, bundle["alpha"])
         out[f"p_over_{L}"] = p.round(3)

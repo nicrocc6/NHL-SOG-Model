@@ -1,4 +1,7 @@
-"""Download MoneyPuck game-by-game skater logs and keep the columns the model needs.
+"""ONE-TIME HISTORICAL BACKFILL ONLY. MoneyPuck asks anyone scraping regularly to get a data license
+(moneypuck.com@gmail.com). Daily updates use src/update_data.py (official NHL API) instead.
+
+Download MoneyPuck game-by-game skater logs and keep the columns the model needs.
 
 Usage: python src/fetch_data.py [first_season]   (season = start year, e.g. 2023 for 2023-24)
 Writes data/games.parquet: one row per player-game, with all-situations and 5on4 (power play) splits.

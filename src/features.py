@@ -72,5 +72,5 @@ def build(g: pd.DataFrame) -> pd.DataFrame:
 
 FEATURES = (["is_d", "home", "b2b", "opp_b2b", "rest", "n_prior", "n_prior_season", "toi_last",
              "sog60_shrunk", "sog_per_att", "opp_factor", "team_factor", "opp_att_allowed", "mu_struct", "toi_proj"]
-            + [f"{c}_ewm{s}" for c in ["toi", "pp_toi", "sog", "att"] for s in SPANS]
+            + [f"{c}_ewm{s}" for c in ["toi", "sog", "att"] for s in SPANS]
             + [f"{c}60_{s}" for c in ["sog", "att"] for s in SPANS])

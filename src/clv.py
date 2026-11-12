@@ -4,7 +4,7 @@ Log each bet you place in results/bets.csv (create it with this header):
     date,name,line,side,price
     2026-11-10,Nathan MacKinnon,2.5,over,-150
 
-Usage: python src/fetch_data.py && python src/clv.py
+Usage: python src/update_data.py && python src/clv.py
 Closing line = the last saved odds snapshot taken before puck drop (so run odds.py close to game time).
 CLV = closing no-vig probability of your side minus the break-even probability of the price you took.
 Positive average CLV over 100+ bets is the best evidence the model has a real edge.
