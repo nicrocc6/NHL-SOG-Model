@@ -1,0 +1,4 @@
+date,name,line,side,price,close_price,clv,sog,profit
+2026-11-11,Erik Karlsson,2.5,over,146,146,-0.024,5.0,1.46
+2026-11-11,Victor Olofsson,1.5,under,110,110,-0.03,6.0,-1.0
+2026-11-11,Cutter Gauthier,3.5,under,122,122,-0.028,7.0,-1.0
