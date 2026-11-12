@@ -31,8 +31,14 @@ def schedule(date):
     return [(x["id"], x["awayTeam"]["abbrev"], x["homeTeam"]["abbrev"]) for x in day["games"] if x["gameType"] == 2]
 
 
+NAMES = {}  # playerId -> official NHL name (MoneyPuck files drop accented letters, e.g. "Sttzle")
+
+
 def roster_ids(team):
     r = requests.get(f"{API}/roster/{team}/current", timeout=30).json()
+    for k in ("forwards", "defensemen"):
+        for p in r.get(k, []):
+            NAMES[p["id"]] = f'{p["firstName"]["default"]} {p["lastName"]["default"]}'
     return {p["id"] for k in ("forwards", "defensemen") for p in r.get(k, [])}
 
 
@@ -60,6 +66,7 @@ if __name__ == "__main__":
     d = build(pd.concat([g, new], ignore_index=True))
     d = d[(d.gameDate == pd.Timestamp(date)) & (d.n_prior >= 10)].copy()
 
+    d["name"] = d.playerId.map(NAMES).fillna(d.name)
     d["proj_sog"] = np.clip(bundle["model"].predict(d[bundle["features"]]), 0.05, None) * bundle["scale"]
     out = d[["name", "playerTeam", "opposingTeam", "home_or_away", "position", "toi_proj", "pp_toi_ewm15", "proj_sog"]].rename(
         columns={"playerTeam": "team", "opposingTeam": "opp", "home_or_away": "venue", "toi_proj": "proj_toi",
