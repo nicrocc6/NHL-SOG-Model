@@ -1,4 +1,12 @@
-date,name,line,side,price,close_price,clv,sog,profit
-2026-11-11,Erik Karlsson,2.5,over,146,146,-0.024,5.0,1.46
-2026-11-11,Victor Olofsson,1.5,under,110,110,-0.03,6.0,-1.0
-2026-11-11,Cutter Gauthier,3.5,under,122,122,-0.028,7.0,-1.0
+date,name,line,side,price,close_price,clv,moved_my_way,sog,profit
+2026-11-11,Erik Karlsson,2.5,over,146,146,-0.024,False,5.0,1.46
+2026-11-11,Victor Olofsson,1.5,under,110,110,-0.03,False,6.0,-1.0
+2026-11-11,Cutter Gauthier,3.5,under,122,122,-0.028,False,7.0,-1.0
+2026-11-12,Jack Hughes,3.5,under,126,122,-0.02,True,3.0,1.26
+2026-11-12,Matt Boldy,3.5,under,-120,-122,-0.029,True,5.0,-1.0
+2026-11-12,Auston Matthews,3.5,under,-132,-132,-0.034,False,2.0,0.758
+2026-11-12,Elias Lindholm,1.5,under,134,132,-0.023,True,2.0,-1.0
+2026-11-12,Alex Laferriere,2.5,over,-128,-130,-0.031,True,1.0,-1.0
+2026-11-12,Adrian Kempe,2.5,over,-128,-125,-0.04,False,3.0,0.781
+2026-11-12,Dylan Holloway,2.5,over,120,114,-0.015,True,1.0,-1.0
+2026-11-12,Gabriel Vilardi,1.5,under,-104,-106,-0.026,True,4.0,-1.0

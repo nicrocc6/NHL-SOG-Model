@@ -35,6 +35,7 @@ if __name__ == "__main__":
     b["close_price"] = np.where(b.side == "over", b.close_over, b.close_under)
     b["close_novig"] = np.where(b.side == "over", nv_over, 1 - nv_over)
     b["clv"] = b.close_novig - implied(b.price)
+    b["moved_my_way"] = implied(b.close_price) > implied(b.price)  # close got more expensive = you got the better number
 
     g = pd.read_parquet(ROOT / "data/games.parquet")
     g = g.assign(key=g.name.map(norm), date=g.gameDate.dt.strftime("%Y-%m-%d"))
@@ -43,9 +44,10 @@ if __name__ == "__main__":
     won = np.where(b.side == "over", b.sog > b.line, b.sog < b.line)
     b["profit"] = np.where(b.sog.isna(), np.nan, np.where(won, payout(b.price), -1.0))
 
-    out = b[["date", "name", "line", "side", "price", "close_price", "clv", "sog", "profit"]].round(3)
+    out = b[["date", "name", "line", "side", "price", "close_price", "clv", "moved_my_way", "sog", "profit"]].round(3)
     out.to_csv(ROOT / "results/bets_graded.csv", index=False)
     print(out.to_string(index=False))
     done = out.dropna(subset=["profit"])
     print(f"\nBets: {len(out)} | avg CLV: {out.clv.mean():+.1%} | beat close: {(out.clv > 0).mean():.0%}"
+          f" | price moved my way: {out.moved_my_way.mean():.0%}"
           f" | graded: {len(done)} | units: {done.profit.sum():+.2f} | ROI: {done.profit.mean():+.1%}")
