@@ -15,7 +15,8 @@ Projects shots on goal (SOG) for every NHL skater in tonight's games. It gives t
 
 - **Learning:** The live model is refit every Monday on every game through the night before. The drift scale is set out of sample on the last 30 days. Each retrain appends a row to `results/model_history.csv`, so you can see whether the holdout error is improving.
 - **Tracking with no bets placed:** Every prop is logged in `results/props_log.csv` and graded in `results/props_graded.csv`, with the model's probability, FanDuel's opening and closing no-vig prices, the result and CLV. `SUMMARY.md` compares the model's log loss to FanDuel's line on every graded prop. That comparison shows whether the model is beating the market.
-- **Odds API cost:** 1 credit per game for the opening pull and 1 for the close, about 450 a month across a full NHL schedule (the free plan has 500). The key is stored as the repo secret `ODDS_API_KEY`.
+- **Game lines:** each morning, FanDuel's moneyline and total for every game are saved to `data/game_lines/` (2 credits). Game pace isn't in the model yet. This builds the history to train on it, which can't be pulled later on the free plan.
+- **Odds API cost:** 1 credit per game for the opening pull and 1 for the close, plus 2 a day for game lines. That's about 480 a month across a full NHL schedule (the free plan has 500). The key is stored as the repo secret `ODDS_API_KEY`.
 - **Manual run:** Actions → Nightly model run → Run workflow.
 
 ## How it works

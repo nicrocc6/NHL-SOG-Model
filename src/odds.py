@@ -120,11 +120,40 @@ def save_snapshot(lines, date):
     return stamp
 
 
+def game_lines(date, key):
+    """Moneyline + total for every game on `date` (one call for the whole slate: 2 credits). Saved for future
+    training: game pace isn't in the model yet, and historical totals can't be pulled later on the free plan."""
+    r = requests.get(f"{API}/odds", timeout=30, params={"apiKey": key, "bookmakers": BOOK,
+                     "markets": "h2h,totals", "oddsFormat": "american"})
+    r.raise_for_status()
+    rows = []
+    for ev in r.json():
+        start = datetime.fromisoformat(ev["commence_time"].replace("Z", "+00:00"))
+        if start.astimezone(TZ).strftime("%Y-%m-%d") != date:
+            continue
+        for b in ev.get("bookmakers", []):
+            for m in b["markets"]:
+                for o in m["outcomes"]:
+                    rows.append({"event_id": ev["id"], "commence_time": ev["commence_time"], "home": ev["home_team"],
+                                 "away": ev["away_team"], "book": b["key"], "market": m["key"], "name": o["name"],
+                                 "point": o.get("point"), "price": o["price"], "book_update": m["last_update"]})
+    if rows:
+        out = ROOT / "data/game_lines"; out.mkdir(parents=True, exist_ok=True)
+        stamp = datetime.now(TZ).strftime("%Y-%m-%dT%H%M")
+        pd.DataFrame(rows).assign(pulled_at=stamp).to_csv(out / f"{date}_{stamp}.csv", index=False)
+    print(f"odds: saved moneyline/total for {len({x['event_id'] for x in rows})} games "
+          f"(credits left: {r.headers.get('x-requests-remaining')})")
+
+
 def entry(date, key):
     """Opening pull: price every prop vs the model and log them all (paper picks flagged)."""
     proj_path = ROOT / f"results/projections_{date}.csv"
     if not proj_path.exists():
         print(f"odds: no projections for {date} (no games?)"); return None
+    try:
+        game_lines(date, key)
+    except Exception as ex:  # never let the extra pull block the props pull
+        print("odds: game lines failed:", ex)
     lines = fetch(date, key)
     if lines.empty:
         print("odds: FanDuel has no SOG props posted yet"); return None
