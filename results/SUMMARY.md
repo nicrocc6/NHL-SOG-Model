@@ -1,6 +1,6 @@
 # Model scorecard
 
-_Updated 2026-11-20 10:18 ET by the nightly job._
+_Updated 2026-11-20 10:20 ET by the nightly job._
 
 ## Paper picks (every FanDuel prop at 5%+ EV at the morning pull)
 
