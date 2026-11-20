@@ -1,7 +1,7 @@
-"""Add newly completed games to data/games.parquet from the NHL's official API (api-web.nhle.com).
+"""Add newly completed games to data/games/<season>.csv.gz from the NHL's official API (api-web.nhle.com).
 
-Usage: python src/update_data.py            (adds every finished regular-season game not yet in the file)
-       python src/update_data.py 2026-11-01  (start scanning from this date; default = day after last game)
+Usage: python src/update_data.py            (adds every finished regular-season game not yet stored)
+       python src/update_data.py 2026-11-01  (start scanning from this date)
 
 About 2 requests per game (box score + play-by-play), so a normal night is ~15-30 requests.
 Per skater-game it records: TOI, shifts, shots on goal, missed shots, shots blocked by the opponent,
@@ -77,25 +77,23 @@ def finished_games(start, end):
     return sorted(set(out))
 
 
-if __name__ == "__main__":
-    path = ROOT / "data/games.parquet"
-    g = pd.read_parquet(path)
-    start = date.fromisoformat(sys.argv[1]) if len(sys.argv) > 1 else (g.gameDate.max() + pd.Timedelta(days=1)).date()
+def update(start=None):
+    """Append every finished regular-season game not yet stored. Returns the number of games added."""
+    from data_io import load_games, save_games
+    g = load_games()
+    start = start or (g.gameDate.max() - pd.Timedelta(days=3)).date()  # small overlap catches late-final games
     have = set(g.gameId.unique())
     todo = [x for x in finished_games(start, date.today()) if x not in have]
-    print(f"{len(todo)} new games since {start}")
-    rows, names = [], {}
+    rows = []
     for gid in todo:
-        r, n = game_rows(gid); rows += r; names.update(n); time.sleep(0.3)
+        rows += game_rows(gid)[0]; time.sleep(0.3)
     if rows:
-        g = pd.concat([g, pd.DataFrame(rows)], ignore_index=True)
-    # Current rosters (32 requests) give official names for every active player
-    for t in g[g.season == g.season.max()].playerTeam.unique():
-        r = get(f"roster/{t}/current")
-        for k in ("forwards", "defensemen"):
-            for p in r.get(k, []):
-                names.setdefault(p["id"], f'{p["firstName"]["default"]} {p["lastName"]["default"]}')
-    # Official names fix accented players that the historical file garbled (e.g. "Sttzle" -> "Stützle")
-    g["name"] = g.playerId.map(names).fillna(g.name)
-    g.to_parquet(path, index=False)
-    print(g.shape, "through", g.gameDate.max().date())
+        new = pd.DataFrame(rows).drop(columns="source")
+        save_games(pd.concat([g, new], ignore_index=True))
+    print(f"update_data: {len(todo)} new games, data through "
+          f"{max(g.gameDate.max(), pd.Timestamp(rows[-1]['gameDate']) if rows else g.gameDate.max()).date()}")
+    return len(todo)
+
+
+if __name__ == "__main__":
+    update(date.fromisoformat(sys.argv[1]) if len(sys.argv) > 1 else None)

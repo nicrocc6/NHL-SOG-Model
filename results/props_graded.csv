@@ -1,0 +1,136 @@
+date,game,playerId,name,line,over,under,proj_sog,model_over,novig_over,close_over,close_under,novig_close_over,best_side,best_ev,paper_pick,pick_price,pick_close,clv,moved_my_way,sog,over_hit,status,profit
+2026-11-11,Pittsburgh Penguins @ San Jose Sharks,8474578.0,Erik Karlsson,2.5,150,-198,2.67,0.487,0.376,146,-192,0.382,over,0.217,True,150,146,-0.018,1.0,5.0,1.0,graded,1.5
+2026-11-11,Philadelphia Flyers @ Edmonton Oilers,8476454.0,Ryan Nugent-Hopkins,2.5,140,-184,1.74,0.256,0.391,154,-205,0.3694,under,0.148,True,-184,-205,-0.0173,1.0,1.0,0.0,graded,0.5435
+2026-11-11,Utah Mammoth @ Vegas Golden Knights,8478109.0,Victor Olofsson,1.5,-148,114,1.7,0.496,0.561,-144,110,0.5534,under,0.078,True,114,110,-0.0207,1.0,6.0,1.0,graded,-1.0
+2026-11-11,Tampa Bay Lightning @ Buffalo Sabres,8479420.0,Tage Thompson,3.5,108,-140,3.14,0.381,0.452,112,-146,0.4428,under,0.061,True,-140,-146,-0.0262,1.0,3.0,0.0,graded,0.7143
+2026-11-11,Philadelphia Flyers @ Edmonton Oilers,8480803.0,Evan Bouchard,2.5,-120,-108,2.52,0.452,0.512,-118,-110,0.5082,under,0.056,True,-108,-110,-0.0274,1.0,2.0,0.0,graded,0.9259
+2026-11-11,Pittsburgh Penguins @ San Jose Sharks,8471215.0,Evgeni Malkin,1.5,-168,128,2.32,0.654,0.588,-188,140,0.6104,over,0.043,False,-168,-188,-0.0165,1.0,3.0,1.0,graded,0.5952
+2026-11-11,Utah Mammoth @ Vegas Golden Knights,8478403.0,Jack Eichel,2.5,-102,-128,2.84,0.525,0.474,-108,-120,0.4877,over,0.039,False,-102,-108,-0.0173,1.0,1.0,0.0,graded,-1.0
+2026-11-11,Pittsburgh Penguins @ San Jose Sharks,8471675.0,Sidney Crosby,2.5,112,-146,2.26,0.389,0.443,126,-165,0.4154,under,0.03,False,-146,-165,-0.0089,1.0,7.0,1.0,graded,-1.0
+2026-11-11,Nashville Predators @ Anaheim Ducks,8474600.0,Roman Josi,2.5,-104,-125,2.42,0.428,0.479,-104,-125,0.4785,under,0.03,False,-125,-125,-0.0341,0.0,1.0,0.0,graded,0.8
+2026-11-11,Nashville Predators @ Anaheim Ducks,8483445.0,Cutter Gauthier,3.5,-154,118,3.92,0.532,0.569,-160,122,0.5774,under,0.021,False,118,122,-0.0361,0.0,7.0,1.0,graded,-1.0
+2026-11-11,Philadelphia Flyers @ Edmonton Oilers,8484387.0,Matvei Michkov,1.5,-152,116,1.82,0.531,0.566,-152,116,0.5658,under,0.014,False,116,116,-0.0287,0.0,0.0,0.0,graded,1.16
+2026-11-11,Philadelphia Flyers @ Edmonton Oilers,8475786.0,Zach Hyman,2.5,118,-154,2.26,0.389,0.431,118,-154,0.4307,under,0.008,False,-154,-154,-0.037,0.0,4.0,1.0,graded,-1.0
+2026-11-11,Tampa Bay Lightning @ Buffalo Sabres,8480839.0,Rasmus Dahlin,2.5,-102,-128,2.45,0.435,0.474,-106,-122,0.4836,under,0.006,False,-128,-122,-0.045,0.0,3.0,1.0,graded,-1.0
+2026-11-11,Tampa Bay Lightning @ Buffalo Sabres,8476453.0,Nikita Kucherov,2.5,-146,112,3.19,0.596,0.557,-165,126,0.5846,over,0.005,False,-146,-165,-0.0089,1.0,5.0,1.0,graded,0.6849
+2026-11-11,New York Rangers @ Calgary Flames,8482679.0,Matt Coronato,2.5,116,-148,2.31,0.401,0.437,118,-154,0.4307,under,0.004,False,-148,-154,-0.0275,1.0,3.0,1.0,graded,-1.0
+2026-11-11,Nashville Predators @ Anaheim Ducks,8484153.0,Leo Carlsson,2.5,106,-138,2.67,0.487,0.456,106,-138,0.4557,over,0.003,False,106,106,-0.0297,0.0,2.0,0.0,graded,-1.0
+2026-11-11,Pittsburgh Penguins @ San Jose Sharks,8476483.0,Rickard Rakell,2.5,-110,-118,2.84,0.525,0.492,-102,-128,0.4735,over,0.001,False,-110,-102,-0.0503,0.0,3.0,1.0,graded,0.9091
+2026-11-11,Philadelphia Flyers @ Edmonton Oilers,8478402.0,Connor McDavid,3.5,132,-174,3.39,0.431,0.404,132,-174,0.4043,over,0.001,False,132,132,-0.0267,0.0,2.0,0.0,graded,-1.0
+2026-11-11,Philadelphia Flyers @ Edmonton Oilers,8477934.0,Leon Draisaitl,3.5,116,-152,3.24,0.401,0.434,128,-168,0.4116,under,-0.007,False,-152,-168,-0.0148,1.0,4.0,1.0,graded,-1.0
+2026-11-11,New York Rangers @ Calgary Flames,8474150.0,Mikael Backlund,2.5,142,-188,2.12,0.354,0.388,142,-188,0.3876,under,-0.01,False,-188,-188,-0.0404,0.0,4.0,1.0,graded,-1.0
+2026-11-11,Nashville Predators @ Anaheim Ducks,8484762.0,Beckett Sennecke,2.5,-120,-108,2.91,0.54,0.512,-118,-110,0.5082,over,-0.011,False,-120,-118,-0.0373,0.0,2.0,0.0,graded,-1.0
+2026-11-11,Pittsburgh Penguins @ San Jose Sharks,8484227.0,Will Smith,2.5,-102,-128,2.72,0.498,0.474,-110,-118,0.4918,over,-0.014,False,-102,-110,-0.0132,1.0,3.0,1.0,graded,0.9804
+2026-11-11,Tampa Bay Lightning @ Buffalo Sabres,8477404.0,Jake Guentzel,2.5,-104,-125,2.53,0.454,0.479,-102,-125,0.4761,under,-0.018,False,-125,-125,-0.0317,0.0,1.0,0.0,graded,0.8
+2026-11-11,Philadelphia Flyers @ Edmonton Oilers,8478439.0,Travis Konecny,1.5,-138,104,1.95,0.566,0.542,-130,100,0.5306,over,-0.024,False,-138,-130,-0.0492,0.0,5.0,1.0,graded,0.7246
+2026-11-11,New York Rangers @ Calgary Flames,8480797.0,Joel Farabee,2.5,146,-192,2.14,0.359,0.382,146,-192,0.382,under,-0.025,False,-192,-192,-0.0396,0.0,5.0,1.0,graded,-1.0
+2026-11-11,New York Rangers @ Calgary Flames,8481604.0,Pavel Dorofeyev,2.5,-128,-102,2.94,0.546,0.526,-132,102,0.5347,over,-0.028,False,-128,-132,-0.0267,1.0,3.0,1.0,graded,0.7812
+2026-11-11,Pittsburgh Penguins @ San Jose Sharks,8484801.0,Macklin Celebrini,3.5,-118,-110,3.89,0.526,0.508,-125,-104,0.5215,over,-0.028,False,-118,-125,-0.0198,1.0,2.0,0.0,graded,-1.0
+2026-11-11,Pittsburgh Penguins @ San Jose Sharks,8476885.0,Jacob Trouba,1.5,-128,-102,1.76,0.514,0.526,-138,106,0.5443,under,-0.037,False,-102,106,-0.0493,0.0,4.0,1.0,graded,-1.0
+2026-11-11,Philadelphia Flyers @ Edmonton Oilers,8482159.0,Tyson Foerster,1.5,-144,110,1.86,0.542,0.553,-144,110,0.5534,under,-0.037,False,110,110,-0.0296,0.0,3.0,1.0,graded,-1.0
+2026-11-11,Pittsburgh Penguins @ San Jose Sharks,8485402.0,Michael Misa,1.5,-106,-122,1.69,0.493,0.484,-106,-122,0.4836,over,-0.041,False,-106,-106,-0.031,0.0,0.0,0.0,graded,-1.0
+2026-11-11,New York Rangers @ Calgary Flames,8484860.0,Matvei Gridin,2.5,154,-205,2.13,0.356,0.369,150,-205,0.3731,under,-0.042,False,-205,-205,-0.0452,0.0,3.0,1.0,graded,-1.0
+2026-11-11,Philadelphia Flyers @ Edmonton Oilers,8485406.0,Porter Martone,1.5,-144,110,1.94,0.563,0.553,-132,102,0.5347,over,-0.046,False,-144,-132,-0.0554,0.0,1.0,0.0,graded,-1.0
+2026-11-11,Utah Mammoth @ Vegas Golden Knights,8478483.0,Mitch Marner,2.5,132,-174,2.35,0.411,0.404,122,-160,0.4226,over,-0.047,False,132,122,-0.0084,1.0,3.0,1.0,graded,1.32
+2026-11-11,Tampa Bay Lightning @ Buffalo Sabres,8479542.0,Brandon Hagel,2.5,-156,120,3.11,0.581,0.573,-152,116,0.5658,over,-0.047,False,-156,-152,-0.0436,0.0,5.0,1.0,graded,0.641
+2026-11-11,Utah Mammoth @ Vegas Golden Knights,8476881.0,Tomas Hertl,1.5,-205,154,2.19,0.625,0.631,-205,154,0.6306,under,-0.047,False,154,154,-0.0243,0.0,1.0,0.0,graded,1.54
+2026-11-11,New York Rangers @ Calgary Flames,8476459.0,Mika Zibanejad,2.5,142,-188,2.22,0.379,0.388,148,-196,0.3785,under,-0.048,False,-188,-196,-0.0313,1.0,2.0,0.0,graded,0.5319
+2026-11-11,Tampa Bay Lightning @ Buffalo Sabres,8482097.0,Jack Quinn,2.5,100,-130,2.62,0.475,0.469,102,-132,0.4653,over,-0.05,False,100,102,-0.0347,0.0,6.0,1.0,graded,1.0
+2026-11-11,Philadelphia Flyers @ Edmonton Oilers,8481533.0,Trevor Zegras,1.5,-152,116,1.97,0.571,0.566,-140,108,0.5482,over,-0.053,False,-152,-140,-0.055,0.0,4.0,1.0,graded,0.6579
+2026-11-11,Tampa Bay Lightning @ Buffalo Sabres,8484145.0,Zach Benson,2.5,142,-188,2.25,0.386,0.388,142,-188,0.3876,under,-0.06,False,-188,-188,-0.0404,0.0,4.0,1.0,graded,-1.0
+2026-11-11,Pittsburgh Penguins @ San Jose Sharks,8485414.0,Ben Kindel,1.5,-188,142,2.14,0.613,0.612,-190,144,0.6152,over,-0.061,False,-188,-190,-0.0376,1.0,2.0,1.0,graded,0.5319
+2026-11-12,Washington Capitals @ New Jersey Devils,8481559.0,Jack Hughes,4.5,120,-156,3.76,0.328,0.427,126,-168,0.4138,under,0.102,True,-156,-168,-0.0232,1.0,3.0,0.0,graded,0.641
+2026-11-12,Buffalo Sabres @ Chicago Blackhawks,8484390.0,Roman Kantserov,1.5,-178,136,1.85,0.539,0.602,-192,146,0.618,under,0.088,True,136,146,-0.0417,0.0,1.0,0.0,graded,1.36
+2026-11-12,Carolina Hurricanes @ Seattle Kraken,8482259.0,Bobby McMann,2.5,132,-174,2.59,0.468,0.404,132,-174,0.4043,over,0.086,True,132,132,-0.0267,0.0,1.0,0.0,graded,-1.0
+2026-11-12,St Louis Blues @ Utah Mammoth,8482077.0,Dylan Holloway,2.5,125,-164,2.65,0.482,0.417,114,-148,0.4392,over,0.085,True,125,114,-0.0053,1.0,1.0,0.0,graded,-1.0
+2026-11-12,Minnesota Wild @ Toronto Maple Leafs,8479318.0,Auston Matthews,3.5,102,-132,3.15,0.383,0.465,102,-132,0.4653,under,0.084,True,-132,-132,-0.0342,0.0,2.0,0.0,graded,0.7576
+2026-11-12,Winnipeg Jets @ Dallas Stars,8480014.0,Gabriel Vilardi,1.5,-128,-102,1.58,0.46,0.526,-122,-106,0.5164,under,0.069,True,-102,-106,-0.0214,1.0,4.0,1.0,graded,-1.0
+2026-11-12,Minnesota Wild @ Toronto Maple Leafs,8481557.0,Matt Boldy,3.5,-104,-125,3.27,0.407,0.479,-106,-122,0.4836,under,0.067,True,-125,-122,-0.0391,0.0,5.0,1.0,graded,-1.0
+2026-11-12,Washington Capitals @ New Jersey Devils,8480002.0,Nico Hischier,2.5,118,-154,2.14,0.359,0.431,122,-160,0.4226,under,0.058,True,-154,-160,-0.0289,1.0,0.0,0.0,graded,0.6494
+2026-11-12,Winnipeg Jets @ Dallas Stars,8481581.0,Thomas Harley,2.5,136,-178,2.0,0.323,0.398,130,-170,0.4085,under,0.057,True,-178,-170,-0.0488,0.0,1.0,0.0,graded,0.5618
+2026-11-12,Detroit Red Wings @ Florida Panthers,8480801.0,Brady Tkachuk,3.5,110,-144,3.15,0.383,0.447,116,-152,0.4342,under,0.045,False,-144,-152,-0.0244,1.0,4.0,1.0,graded,-1.0
+2026-11-12,Colorado Avalanche @ Ottawa Senators,8477492.0,Nathan MacKinnon,3.5,106,-138,3.21,0.395,0.456,104,-135,0.4604,under,0.043,False,-138,-135,-0.0403,0.0,2.0,0.0,graded,0.7246
+2026-11-12,Tampa Bay Lightning @ Columbus Blue Jackets,8484166.0,Adam Fantilli,2.5,114,-148,2.67,0.487,0.439,106,-138,0.4557,over,0.042,False,114,106,-0.0116,1.0,2.0,0.0,graded,-1.0
+2026-11-12,Colorado Avalanche @ Ottawa Senators,8477476.0,Artturi Lehkonen,1.5,-128,-102,2.01,0.581,0.526,-130,100,0.5306,over,0.035,False,-128,-130,-0.0308,1.0,1.0,0.0,graded,-1.0
+2026-11-12,Minnesota Wild @ Toronto Maple Leafs,8477939.0,William Nylander,2.5,-110,-118,2.47,0.44,0.492,-110,-118,0.4918,under,0.035,False,-118,-118,-0.0331,0.0,1.0,0.0,graded,0.8475
+2026-11-12,Colorado Avalanche @ Ottawa Senators,8482105.0,Jake Sanderson,1.5,-160,122,2.24,0.636,0.577,-160,122,0.5774,over,0.034,False,-160,-160,-0.038,0.0,2.0,1.0,graded,0.625
+2026-11-12,Minnesota Wild @ Toronto Maple Leafs,8478178.0,Darren Raddysh,2.5,112,-146,2.66,0.484,0.443,112,-146,0.4428,over,0.027,False,112,112,-0.0289,0.0,2.0,0.0,graded,-1.0
+2026-11-12,Carolina Hurricanes @ Seattle Kraken,8478407.0,Vince Dunn,1.5,-140,108,2.08,0.599,0.548,-140,108,0.5482,over,0.026,False,-140,-140,-0.0351,0.0,1.0,0.0,graded,-1.0
+2026-11-12,Detroit Red Wings @ Florida Panthers,8479314.0,Matthew Tkachuk,2.5,-118,-110,2.57,0.464,0.508,-114,-114,0.5,under,0.024,False,-110,-114,-0.0238,1.0,0.0,0.0,graded,0.9091
+2026-11-12,Winnipeg Jets @ Dallas Stars,8477504.0,Josh Morrissey,1.5,-125,-104,1.64,0.478,0.521,-125,-104,0.5215,under,0.023,False,-104,-104,-0.0313,0.0,2.0,1.0,graded,-1.0
+2026-11-12,Montréal Canadiens @ Boston Bruins,8477956.0,David Pastrnak,3.5,-113,-115,3.5,0.453,0.498,-118,-110,0.5082,under,0.023,False,-115,-110,-0.0431,0.0,3.0,0.0,graded,0.8696
+2026-11-12,Minnesota Wild @ Toronto Maple Leafs,8475166.0,John Tavares,2.5,138,-182,2.07,0.341,0.394,138,-182,0.3943,under,0.021,False,-182,-182,-0.0397,0.0,3.0,1.0,graded,-1.0
+2026-11-12,Colorado Avalanche @ Ottawa Senators,8480069.0,Cale Makar,2.5,108,-140,2.33,0.406,0.452,100,-130,0.4694,under,0.018,False,-140,-130,-0.0527,0.0,2.0,0.0,graded,0.7143
+2026-11-12,Colorado Avalanche @ Ottawa Senators,8480208.0,Drake Batherson,2.5,128,-168,2.16,0.364,0.412,140,-184,0.3914,under,0.015,False,-168,-184,-0.0183,1.0,6.0,1.0,graded,-1.0
+2026-11-12,Detroit Red Wings @ Florida Panthers,8479337.0,Alex DeBrincat,3.5,118,-154,3.16,0.385,0.431,120,-156,0.4272,under,0.014,False,-154,-156,-0.0335,1.0,2.0,0.0,graded,0.6494
+2026-11-12,Carolina Hurricanes @ Seattle Kraken,8474586.0,Jordan Eberle,1.5,-122,-106,1.64,0.478,0.516,-122,-106,0.5164,under,0.014,False,-106,-106,-0.031,0.0,0.0,0.0,graded,0.9434
+2026-11-12,Colorado Avalanche @ Ottawa Senators,8481528.0,Dylan Cozens,2.5,114,-148,2.61,0.473,0.439,116,-152,0.4342,over,0.012,False,114,116,-0.033,0.0,3.0,1.0,graded,1.14
+2026-11-12,Carolina Hurricanes @ Seattle Kraken,8482093.0,Seth Jarvis,2.5,130,-170,2.47,0.44,0.408,130,-170,0.4085,over,0.012,False,130,130,-0.0263,0.0,1.0,0.0,graded,-1.0
+2026-11-12,Tampa Bay Lightning @ Columbus Blue Jackets,8477404.0,Jake Guentzel,2.5,110,-144,2.33,0.406,0.447,100,-130,0.4694,under,0.006,False,-144,-130,-0.0596,0.0,3.0,1.0,graded,-1.0
+2026-11-12,Washington Capitals @ New Jersey Devils,8478414.0,Timo Meier,3.5,112,-146,3.25,0.403,0.443,112,-146,0.4428,under,0.005,False,-146,-146,-0.0363,0.0,4.0,1.0,graded,-1.0
+2026-11-12,Buffalo Sabres @ Chicago Blackhawks,8483493.0,Frank Nazar,1.5,-148,114,1.82,0.531,0.561,-130,100,0.5306,under,0.005,False,114,100,0.0021,1.0,5.0,1.0,graded,-1.0
+2026-11-12,Carolina Hurricanes @ Seattle Kraken,8482702.0,Logan Stankoven,2.5,136,-178,2.41,0.426,0.398,136,-178,0.3982,over,0.004,False,136,136,-0.0255,0.0,1.0,0.0,graded,-1.0
+2026-11-12,Minnesota Wild @ Toronto Maple Leafs,8478864.0,Kirill Kaprizov,3.5,120,-156,3.18,0.389,0.427,106,-138,0.4557,under,0.002,False,-156,-138,-0.0651,0.0,5.0,1.0,graded,-1.0
+2026-11-12,Washington Capitals @ New Jersey Devils,8479407.0,Jesper Bratt,2.5,126,-165,2.21,0.376,0.415,130,-170,0.4085,under,0.002,False,-165,-170,-0.0311,1.0,2.0,0.0,graded,0.6061
+2026-11-12,St Louis Blues @ Utah Mammoth,8483516.0,Jimmy Snuggerud,2.5,118,-154,2.55,0.459,0.431,118,-154,0.4307,over,0.001,False,118,118,-0.028,0.0,0.0,0.0,graded,-1.0
+2026-11-12,Detroit Red Wings @ Florida Panthers,8477933.0,Sam Reinhart,2.5,-104,-125,2.49,0.445,0.479,100,-130,0.4694,under,-0.001,False,-125,-130,-0.0249,1.0,4.0,1.0,graded,-1.0
+2026-11-12,Colorado Avalanche @ Ottawa Senators,8482116.0,Tim Stützle,1.5,-190,144,2.32,0.654,0.615,-190,144,0.6152,over,-0.002,False,-190,-190,-0.04,0.0,4.0,1.0,graded,0.5263
+2026-11-12,Colorado Avalanche @ Ottawa Senators,8480039.0,Martin Necas,2.5,136,-182,2.14,0.359,0.396,138,-182,0.3943,under,-0.006,False,-182,-182,-0.0397,0.0,1.0,0.0,graded,0.5495
+2026-11-12,Carolina Hurricanes @ Seattle Kraken,8482713.0,Mackie Samoskevich,1.5,-135,104,1.76,0.514,0.54,-135,104,0.5396,under,-0.008,False,104,104,-0.0298,0.0,0.0,0.0,graded,1.04
+2026-11-12,Detroit Red Wings @ Florida Panthers,8477409.0,Carter Verhaeghe,2.5,100,-130,2.47,0.44,0.469,100,-130,0.4694,under,-0.009,False,-130,-130,-0.0346,0.0,3.0,1.0,graded,-1.0
+2026-11-12,Carolina Hurricanes @ Seattle Kraken,8480222.0,Sebastian Aho,2.5,-120,-108,2.67,0.487,0.512,-120,-108,0.5123,under,-0.011,False,-108,-108,-0.0315,0.0,,,void,
+2026-11-12,Winnipeg Jets @ Dallas Stars,8480027.0,Jason Robertson,2.5,-152,116,3.19,0.596,0.566,-160,122,0.5774,over,-0.011,False,-152,-160,-0.0258,1.0,2.0,0.0,graded,-1.0
+2026-11-12,Montréal Canadiens @ Boston Bruins,8482175.0,JJ Peterka,2.5,144,-190,2.32,0.404,0.385,136,-178,0.3982,over,-0.015,False,144,136,-0.0116,1.0,2.0,0.0,graded,-1.0
+2026-11-12,Montréal Canadiens @ Boston Bruins,8481540.0,Cole Caufield,3.5,134,-176,3.11,0.375,0.401,132,-174,0.4043,under,-0.02,False,-176,-174,-0.042,0.0,4.0,1.0,graded,-1.0
+2026-11-12,Carolina Hurricanes @ Seattle Kraken,8477986.0,Brandon Montour,1.5,-198,150,2.12,0.608,0.624,-198,150,0.6242,under,-0.021,False,150,150,-0.0242,0.0,2.0,1.0,graded,-1.0
+2026-11-12,Tampa Bay Lightning @ Columbus Blue Jackets,8476453.0,Nikita Kucherov,2.5,-152,116,3.16,0.59,0.566,-164,125,0.5829,over,-0.021,False,-152,-164,-0.0202,1.0,2.0,0.0,graded,-1.0
+2026-11-12,Montréal Canadiens @ Boston Bruins,8480018.0,Nick Suzuki,2.5,120,-156,2.49,0.445,0.427,122,-160,0.4226,over,-0.022,False,120,122,-0.0319,0.0,0.0,0.0,graded,-1.0
+2026-11-12,Detroit Red Wings @ Florida Panthers,8477935.0,Sam Bennett,2.5,126,-165,2.44,0.433,0.415,125,-164,0.4171,over,-0.022,False,126,125,-0.0254,1.0,1.0,0.0,graded,-1.0
+2026-11-12,Detroit Red Wings @ Florida Panthers,8484471.0,Emmitt Finnie,1.5,-154,118,1.9,0.552,0.569,-154,118,0.5693,under,-0.024,False,118,118,-0.028,0.0,3.0,1.0,graded,-1.0
+2026-11-12,Minnesota Wild @ Toronto Maple Leafs,8480800.0,Quinn Hughes,2.5,118,-154,2.34,0.408,0.431,116,-152,0.4342,under,-0.024,False,-154,-152,-0.0405,0.0,4.0,1.0,graded,-1.0
+2026-11-12,Montréal Canadiens @ Boston Bruins,8483515.0,Juraj Slafkovský,2.5,132,-174,2.23,0.381,0.404,136,-178,0.3982,under,-0.026,False,-174,-178,-0.0333,1.0,3.0,1.0,graded,-1.0
+2026-11-12,Winnipeg Jets @ Dallas Stars,8478420.0,Mikko Rantanen,2.5,154,-205,2.09,0.346,0.369,150,-198,0.3758,under,-0.027,False,-205,-198,-0.0479,0.0,0.0,0.0,graded,0.4878
+2026-11-12,St Louis Blues @ Utah Mammoth,8482745.0,Mason McTavish,2.5,140,-184,2.19,0.371,0.391,132,-174,0.4043,under,-0.03,False,-184,-174,-0.0522,0.0,4.0,1.0,graded,-1.0
+2026-11-12,Tampa Bay Lightning @ Columbus Blue Jackets,8478460.0,Zach Werenski,2.5,-165,126,3.06,0.571,0.585,-176,134,0.5987,under,-0.03,False,126,134,-0.0412,0.0,5.0,1.0,graded,-1.0
+2026-11-12,Montréal Canadiens @ Boston Bruins,8479987.0,Morgan Geekie,2.5,154,-205,2.1,0.349,0.369,144,-190,0.3848,under,-0.031,False,-205,-190,-0.057,0.0,0.0,0.0,graded,0.4878
+2026-11-12,Carolina Hurricanes @ Seattle Kraken,8482809.0,Jackson Blake,2.5,130,-170,2.39,0.421,0.408,130,-170,0.4085,over,-0.032,False,130,130,-0.0263,0.0,1.0,0.0,graded,-1.0
+2026-11-12,Minnesota Wild @ Toronto Maple Leafs,8478493.0,Joel Eriksson Ek,2.5,-132,102,2.95,0.548,0.535,-160,122,0.5774,over,-0.037,False,-132,-160,0.0084,1.0,3.0,1.0,graded,0.7576
+2026-11-12,Tampa Bay Lightning @ Columbus Blue Jackets,8474590.0,John Carlson,1.5,-144,110,1.96,0.568,0.553,-140,108,0.5482,over,-0.037,False,-144,-140,-0.042,0.0,3.0,1.0,graded,0.6944
+2026-11-12,Detroit Red Wings @ Florida Panthers,8482078.0,Lucas Raymond,2.5,112,-146,2.53,0.454,0.443,116,-152,0.4342,over,-0.037,False,112,116,-0.0375,0.0,3.0,1.0,graded,1.12
+2026-11-12,Carolina Hurricanes @ Seattle Kraken,8476906.0,Shayne Gostisbehere,1.5,-146,112,1.96,0.568,0.557,-146,112,0.5572,over,-0.042,False,-146,-146,-0.0363,0.0,3.0,1.0,graded,0.6849
+2026-11-12,Winnipeg Jets @ Dallas Stars,8476460.0,Mark Scheifele,1.5,-160,122,2.04,0.589,0.577,-154,118,0.5693,over,-0.043,False,-160,-154,-0.0461,0.0,2.0,1.0,graded,0.625
+2026-11-12,Montréal Canadiens @ Boston Bruins,8478401.0,Pavel Zacha,1.5,-148,114,1.97,0.571,0.561,-165,126,0.5846,over,-0.043,False,-148,-165,-0.0122,1.0,3.0,1.0,graded,0.6757
+2026-11-12,Colorado Avalanche @ Ottawa Senators,8481596.0,Shane Pinto,2.5,146,-192,2.2,0.374,0.382,142,-188,0.3876,under,-0.048,False,-192,-188,-0.0452,0.0,2.0,0.0,graded,0.5208
+2026-11-12,Detroit Red Wings @ Florida Panthers,8478042.0,Viktor Arvidsson,2.5,-113,-115,2.75,0.505,0.498,-110,-118,0.4918,over,-0.049,False,-113,-110,-0.0387,0.0,1.0,0.0,graded,-1.0
+2026-11-12,Washington Capitals @ New Jersey Devils,8482146.0,Luke Evangelista,2.5,130,-170,2.31,0.401,0.408,136,-182,0.3963,under,-0.049,False,-170,-182,-0.026,1.0,0.0,0.0,graded,0.5882
+2026-11-12,Winnipeg Jets @ Dallas Stars,8478398.0,Kyle Connor,3.5,130,-170,3.25,0.403,0.408,132,-174,0.4043,under,-0.052,False,-170,-174,-0.034,1.0,4.0,1.0,graded,-1.0
+2026-11-12,Carolina Hurricanes @ Seattle Kraken,8477940.0,Nikolaj Ehlers,2.5,118,-154,2.41,0.426,0.431,118,-154,0.4307,under,-0.053,False,-154,-154,-0.037,0.0,3.0,1.0,graded,-1.0
+2026-11-12,Washington Capitals @ New Jersey Devils,8481721.0,Arseny Gritsyuk,2.5,142,-188,2.27,0.391,0.388,130,-170,0.4085,over,-0.053,False,142,130,-0.0048,1.0,0.0,0.0,graded,-1.0
+2026-11-12,Minnesota Wild @ Toronto Maple Leafs,8478458.0,Jack Roslovic,2.5,142,-188,2.27,0.391,0.388,142,-188,0.3876,over,-0.053,False,142,142,-0.0256,0.0,3.0,1.0,graded,1.42
+2026-11-12,Washington Capitals @ New Jersey Devils,8482684.0,Luke Hughes,1.5,-188,142,2.16,0.618,0.612,-192,146,0.618,over,-0.053,False,-188,-192,-0.0348,1.0,3.0,1.0,graded,0.5319
+2026-11-12,Detroit Red Wings @ Florida Panthers,8477495.0,Seth Jones,1.5,-154,120,1.98,0.574,0.572,-165,126,0.5846,over,-0.054,False,-154,-165,-0.0217,1.0,2.0,1.0,graded,0.6494
+2026-11-12,Winnipeg Jets @ Dallas Stars,8478449.0,Roope Hintz,1.5,-170,130,2.04,0.589,0.592,-168,128,0.5884,under,-0.054,False,130,128,-0.0231,1.0,3.0,1.0,graded,-1.0
+2026-11-12,Washington Capitals @ New Jersey Devils,8476462.0,Dougie Hamilton,2.5,122,-160,2.41,0.426,0.423,134,-176,0.4013,over,-0.055,False,122,134,-0.0492,0.0,3.0,1.0,graded,1.22
+2026-11-12,Colorado Avalanche @ Ottawa Senators,8475172.0,Nazem Kadri,2.5,122,-160,2.41,0.426,0.423,120,-156,0.4272,over,-0.055,False,122,120,-0.0232,1.0,5.0,1.0,graded,1.22
+2026-11-12,Winnipeg Jets @ Dallas Stars,8482149.0,Cole Perfetti,2.5,146,-192,2.24,0.384,0.382,146,-192,0.382,over,-0.056,False,146,146,-0.0245,0.0,1.0,0.0,graded,-1.0
+2026-11-12,Detroit Red Wings @ Florida Panthers,8481542.0,Moritz Seider,1.5,-156,120,1.97,0.571,0.573,-164,125,0.5829,under,-0.056,False,120,125,-0.0375,0.0,2.0,1.0,graded,-1.0
+2026-11-12,Carolina Hurricanes @ Seattle Kraken,8480830.0,Andrei Svechnikov,2.5,-110,-118,2.7,0.494,0.492,-110,-118,0.4918,over,-0.058,False,-110,-110,-0.032,0.0,3.0,1.0,graded,0.9091
+2026-11-12,Buffalo Sabres @ Chicago Blackhawks,8485391.0,Anton Frondell,2.5,132,-174,2.33,0.406,0.404,140,-184,0.3914,over,-0.058,False,132,140,-0.0396,0.0,0.0,0.0,graded,-1.0
+2026-11-12,Buffalo Sabres @ Chicago Blackhawks,8484144.0,Connor Bedard,3.5,130,-170,3.27,0.407,0.408,126,-165,0.4154,under,-0.059,False,-170,-165,-0.0451,0.0,2.0,0.0,graded,0.5882
+2026-11-12,Winnipeg Jets @ Dallas Stars,8482740.0,Wyatt Johnston,2.5,-104,-125,2.63,0.478,0.479,-104,-125,0.4785,under,-0.06,False,-125,-125,-0.0341,0.0,4.0,1.0,graded,-1.0
+2026-11-13,New York Rangers @ Vancouver Canucks,8478444.0,Brock Boeser,1.5,-138,106,2.17,0.62,0.544,-135,104,0.5396,over,0.07,True,-138,-135,-0.0403,0.0,1.0,0.0,graded,-1.0
+2026-11-13,New York Rangers @ Vancouver Canucks,8481604.0,Pavel Dorofeyev,2.5,-148,114,2.77,0.509,0.561,-174,132,0.5957,under,0.05,True,114,132,-0.063,0.0,4.0,1.0,graded,-1.0
+2026-11-13,New York Rangers @ Vancouver Canucks,8484210.0,Gabe Perreault,1.5,-140,108,1.7,0.496,0.548,-144,110,0.5534,under,0.048,False,108,110,-0.0342,0.0,2.0,1.0,graded,-1.0
+2026-11-13,Nashville Predators @ Vegas Golden Knights,8474564.0,Steven Stamkos,2.5,134,-176,2.5,0.447,0.401,142,-188,0.3876,over,0.046,False,134,142,-0.0397,0.0,2.0,0.0,graded,-1.0
+2026-11-13,Nashville Predators @ Vegas Golden Knights,8476887.0,Filip Forsberg,2.5,-132,102,2.67,0.487,0.535,-114,-114,0.5,under,0.037,False,102,-114,0.005,1.0,1.0,0.0,graded,1.02
+2026-11-13,New York Rangers @ Vancouver Canucks,8478498.0,Jake DeBrusk,2.5,118,-154,2.62,0.475,0.431,125,-164,0.4171,over,0.036,False,118,125,-0.0417,0.0,3.0,1.0,graded,1.18
+2026-11-13,Nashville Predators @ Vegas Golden Knights,8475913.0,Mark Stone,2.5,150,-205,1.96,0.313,0.373,150,-205,0.3731,under,0.022,False,-205,-205,-0.0452,0.0,1.0,0.0,graded,0.4878
+2026-11-13,Nashville Predators @ Vegas Golden Knights,8478403.0,Jack Eichel,2.5,-138,106,2.76,0.507,0.544,-125,-104,0.5215,under,0.016,False,106,-104,-0.0069,1.0,6.0,1.0,graded,-1.0
+2026-11-13,New York Rangers @ Vancouver Canucks,8476468.0,J.T. Miller,1.5,-160,122,2.18,0.623,0.577,-156,120,0.5728,over,0.012,False,-160,-156,-0.0426,0.0,2.0,1.0,graded,0.625
+2026-11-13,New York Rangers @ Vancouver Canucks,8479323.0,Adam Fox,1.5,-114,-114,1.85,0.539,0.5,-140,108,0.5482,over,0.012,False,-114,-140,0.0155,1.0,3.0,1.0,graded,0.8772
+2026-11-13,New York Rangers @ Vancouver Canucks,8483476.0,Jonathan Lekkerimäki,1.5,-114,-114,1.8,0.525,0.5,-114,-114,0.5,over,-0.015,False,-114,-114,-0.0327,0.0,1.0,0.0,graded,-1.0
+2026-11-13,New York Rangers @ Vancouver Canucks,8476459.0,Mika Zibanejad,2.5,150,-198,2.12,0.354,0.376,140,-188,0.3896,under,-0.027,False,-198,-188,-0.054,0.0,3.0,1.0,graded,-1.0
+2026-11-13,Nashville Predators @ Vegas Golden Knights,8478483.0,Mitch Marner,2.5,112,-146,2.4,0.423,0.443,114,-148,0.4392,under,-0.028,False,-146,-148,-0.0327,1.0,1.0,0.0,graded,0.6849
+2026-11-13,Nashville Predators @ Vegas Golden Knights,8476881.0,Tomas Hertl,2.5,126,-165,2.3,0.399,0.415,126,-165,0.4154,under,-0.034,False,-165,-165,-0.0381,0.0,3.0,1.0,graded,-1.0
+2026-11-13,Nashville Predators @ Vegas Golden Knights,8474600.0,Roman Josi,2.5,128,-168,2.33,0.406,0.412,142,-188,0.3876,under,-0.052,False,-168,-188,-0.0145,1.0,3.0,1.0,graded,-1.0
+2026-11-13,New York Rangers @ Vancouver Canucks,8482109.0,Alexis Lafrenière,2.5,148,-196,2.2,0.374,0.378,148,-196,0.3785,under,-0.054,False,-196,-196,-0.0406,0.0,2.0,0.0,graded,0.5102

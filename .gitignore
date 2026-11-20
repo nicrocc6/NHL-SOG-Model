@@ -1,4 +1,4 @@
-data/
-models/
-__pycache__/
 .odds_key
+__pycache__/
+data/games.parquet
+data/games_moneypuck_backup.parquet

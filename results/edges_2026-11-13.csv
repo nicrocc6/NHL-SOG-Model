@@ -1,0 +1,16 @@
+game,name,team,line,over,under,proj_toi,proj_sog,model_over,novig_over,edge_over,book_hold,ev_over,ev_under,best_side,best_ev,commence_time
+New York Rangers @ Vancouver Canucks,Pavel Dorofeyev,NYR,2.5,-174,132,16.42,2.77,0.509,0.596,-0.086,0.066,-0.198,0.139,under,0.139,2026-11-14T02:10:00Z
+Nashville Predators @ Vegas Golden Knights,Steven Stamkos,NSH,2.5,142,-188,17.95,2.5,0.447,0.388,0.06,0.066,0.082,-0.153,over,0.082,2026-11-14T03:10:00Z
+New York Rangers @ Vancouver Canucks,Brock Boeser,VAN,1.5,-135,104,20.51,2.17,0.62,0.54,0.081,0.065,0.08,-0.225,over,0.08,2026-11-14T02:10:00Z
+Nashville Predators @ Vegas Golden Knights,Mark Stone,VGK,1.5,-198,150,18.92,1.96,0.568,0.624,-0.056,0.064,-0.145,0.079,under,0.079,2026-11-14T03:10:00Z
+New York Rangers @ Vancouver Canucks,Jake DeBrusk,VAN,2.5,125,-164,18.0,2.62,0.475,0.417,0.058,0.066,0.069,-0.155,over,0.069,2026-11-14T02:10:00Z
+New York Rangers @ Vancouver Canucks,Gabe Perreault,NYR,1.5,-144,110,16.66,1.7,0.496,0.553,-0.057,0.066,-0.159,0.058,under,0.058,2026-11-14T02:10:00Z
+New York Rangers @ Vancouver Canucks,J.T. Miller,NYR,1.5,-156,120,19.73,2.18,0.623,0.573,0.05,0.064,0.022,-0.17,over,0.022,2026-11-14T02:10:00Z
+New York Rangers @ Vancouver Canucks,Mika Zibanejad,NYR,2.5,140,-188,20.19,2.12,0.354,0.39,-0.036,0.069,-0.151,-0.01,under,-0.01,2026-11-14T02:10:00Z
+Nashville Predators @ Vegas Golden Knights,Roman Josi,NSH,2.5,142,-188,25.5,2.33,0.406,0.388,0.018,0.066,-0.017,-0.09,over,-0.017,2026-11-14T03:10:00Z
+Nashville Predators @ Vegas Golden Knights,Jack Eichel,VGK,2.5,-125,-104,20.41,2.76,0.507,0.521,-0.014,0.065,-0.087,-0.033,under,-0.033,2026-11-14T03:10:00Z
+Nashville Predators @ Vegas Golden Knights,Mitch Marner,VGK,2.5,114,-148,20.0,2.4,0.423,0.439,-0.016,0.064,-0.094,-0.033,under,-0.033,2026-11-14T03:10:00Z
+Nashville Predators @ Vegas Golden Knights,Tomas Hertl,VGK,2.5,126,-165,15.51,2.3,0.399,0.415,-0.017,0.065,-0.099,-0.034,under,-0.034,2026-11-14T03:10:00Z
+Nashville Predators @ Vegas Golden Knights,Filip Forsberg,NSH,2.5,-114,-114,19.71,2.67,0.487,0.5,-0.013,0.065,-0.086,-0.037,under,-0.037,2026-11-14T03:10:00Z
+New York Rangers @ Vancouver Canucks,Adam Fox,NYR,1.5,-140,108,24.36,1.85,0.539,0.548,-0.009,0.064,-0.076,-0.041,under,-0.041,2026-11-14T02:10:00Z
+New York Rangers @ Vancouver Canucks,Alexis Lafrenière,NYR,2.5,148,-196,18.57,2.2,0.374,0.378,-0.005,0.065,-0.073,-0.054,under,-0.054,2026-11-14T02:10:00Z

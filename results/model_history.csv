@@ -1,0 +1,2 @@
+trained_on,data_through,training_rows,scale,alpha,holdout_games,holdout_logloss_o1.5,holdout_logloss_o2.5,holdout_logloss_o3.5,holdout_mae
+2026-11-20,2026-11-19,189262,1.0204,0.0605,7286,0.6051,0.4517,0.2697,0.9984

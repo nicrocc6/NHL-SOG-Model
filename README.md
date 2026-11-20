@@ -2,6 +2,22 @@
 
 Projects shots on goal (SOG) for every NHL skater in tonight's games. It gives the over/under probability and fair American odds for SOG prop lines (0.5 through 4.5), so you can compare against sportsbook prices.
 
+**It runs itself.** A GitHub Actions job runs every day. It adds last night's games, grades every FanDuel prop it priced, retrains on Mondays, projects today's slate and records opening and closing lines. Everything is committed back to this repo. **Live scorecard: [`results/SUMMARY.md`](results/SUMMARY.md)**
+
+## Automation
+
+`.github/workflows/daily.yml`, all times Eastern:
+
+| When | What |
+|---|---|
+| 9:00 AM daily | `daily.py morning`: add last night's games from the NHL API, grade logged bets and every priced prop, retrain on Mondays, project today's skaters, pull FanDuel's opening lines and log every prop (5%+ EV props become **paper picks**) |
+| Every 30 min, 11 AM–10:30 PM | `daily.py close`: save FanDuel's closing lines for games starting within 45 min, once per game |
+
+- **Learning:** The live model is refit every Monday on every game through the night before. The drift scale is set out of sample on the last 30 days. Each retrain appends a row to `results/model_history.csv`, so you can see whether the holdout error is improving.
+- **Tracking with no bets placed:** Every prop is logged in `results/props_log.csv` and graded in `results/props_graded.csv`, with the model's probability, FanDuel's opening and closing no-vig prices, the result and CLV. `SUMMARY.md` compares the model's log loss to FanDuel's line on every graded prop. That comparison shows whether the model is beating the market.
+- **Odds API cost:** 1 credit per game for the opening pull and 1 for the close, about 450 a month across a full NHL schedule (the free plan has 500). The key is stored as the repo secret `ODDS_API_KEY`.
+- **Manual run:** Actions → Nightly model run → Run workflow.
+
 ## How it works
 
 Shots on goal ≈ **ice time × shot rate × matchup**.
@@ -16,8 +32,7 @@ Every feature uses only games played **before** the game being predicted. There 
 
 ## Data
 
-- **History (2022-23 to Nov 11, 2026):** a one-time pull of [MoneyPuck](https://moneypuck.com) game-by-game skater logs. MoneyPuck asks anyone pulling its data regularly to get a data license, so `fetch_data.py` is kept only as a record of how the history was built.
-- **Daily updates:** the official [NHL API](https://api-web.nhle.com), with box scores (TOI, SOG, shifts) and play-by-play (missed and blocked attempts), plus schedule and rosters. About 2 requests per game. Checked against MoneyPuck on 72 games / 2,592 player-games: SOG 99.8% and attempts 99.7% identical, TOI 100% within 5 seconds.
+All game data comes from the official [NHL API](https://api-web.nhle.com): box scores (TOI, SOG, shifts) and play-by-play (missed and blocked attempts). It's stored in `data/games/<season>.csv.gz`, 2022-23 to now, and `backfill_history.py` rebuilds it. As a check, it was compared to [MoneyPuck](https://moneypuck.com) on 199,580 player-games: SOG 99.95% and attempts 99.72% identical, TOI 100% within 5 seconds. (The model was first built on MoneyPuck data. MoneyPuck asks anyone pulling its data regularly to get a license, so it is no longer used.)
 
 ## Backtest
 
@@ -25,30 +40,33 @@ Trained on 2022-23 and 2023-24. The scale and dispersion were fit on 2024-25. Te
 
 | Test set | Model | Games | Log loss O1.5 | Log loss O2.5 | Log loss O3.5 | MAE |
 |---|---|---|---|---|---|---|
-| 2025-26 | Naive (last-15 avg SOG) | 44,202 | 0.6217 | 0.4696 | 0.2889 | 1.040 |
-| 2025-26 | Structural (TOI × rate × opp) | 44,202 | 0.6086 | 0.4577 | 0.2816 | 1.013 |
-| 2025-26 | **GBM (this model)** | 44,202 | **0.6064** | **0.4557** | **0.2795** | **1.010** |
-| 2026-27 to date | Naive | 9,439 | 0.6191 | 0.4679 | 0.2825 | 1.027 |
-| 2026-27 to date | **GBM (this model)** | 9,439 | **0.6038** | **0.4546** | **0.2720** | **0.996** |
+| 2025-26 | Naive (last-15 avg SOG) | 46,061 | 0.6224 | 0.4692 | 0.2885 | 1.040 |
+| 2025-26 | Structural (TOI × rate × opp) | 46,061 | 0.6091 | 0.4573 | 0.2811 | 1.013 |
+| 2025-26 | **GBM (this model)** | 46,061 | **0.6072** | **0.4553** | **0.2793** | **1.010** |
+| 2026-27 to Nov 19 | Naive | 12,463 | 0.6218 | 0.4671 | 0.2823 | 1.026 |
+| 2026-27 to Nov 19 | **GBM (this model)** | 12,463 | **0.6066** | **0.4522** | **0.2718** | **0.994** |
 
 Lower log loss is better. On the main lines the model beats a "recent average" baseline by about 3%. Most of that gain comes from the TOI × rate structure. The boosted model adds only a little on top of the structural one.
 
 **Calibration (2025-26, over 2.5):** Predicted probabilities track actual hit rates closely. For example, picks rated 40–50% hit 46.5%, and picks rated 50–60% hit 58%. The model ran about 2% low across 2025-26 because shot rates rose that season. Live predictions use the current season's scale to correct for that. Full tables are in `results/`.
 
-**What a backtest can't tell you:** Whether the model beats the books. That needs closing-line odds, which this data doesn't include. Log every bet with the line you took and the closing line, and judge the model by closing-line value (CLV) over 100+ picks.
+**What a backtest can't tell you:** Whether the model beats the books. That's what the nightly prop tracking measures. See `results/SUMMARY.md`.
 
 ## Usage
 
 ```bash
 pip install -r requirements.txt
-python src/update_data.py        # each game day: add last night's games from the NHL API
-python src/train.py               # backtest + saves models/sog_gbm.joblib (retrain every few weeks)
+python src/daily.py morning       # the whole morning job (what GitHub runs at 9 AM)
+python src/update_data.py        # add last night's games from the NHL API
+python src/train.py               # backtest + refit the live model on all data
 python src/predict.py             # today's projections -> results/projections_YYYY-MM-DD.csv
 python src/predict.py 2026-11-12  # or a specific date
 
 export ODDS_API_KEY=your_key      # free key at the-odds-api.com
-python src/odds.py                # FanDuel SOG props vs model -> results/edges_YYYY-MM-DD.csv
+python src/odds.py                # FanDuel SOG props vs model -> results/edges_YYYY-MM-DD.csv + props log
+python src/odds.py --close        # closing lines for games starting in the next 45 min
 python src/clv.py                 # grade bets logged in results/bets.csv: CLV + profit
+python src/grade_props.py         # grade every logged prop, write results/SUMMARY.md
 ```
 
 ## Odds and CLV
@@ -61,7 +79,7 @@ python src/clv.py                 # grade bets logged in results/bets.csv: CLV +
 - `ev_over` / `ev_under`: expected profit per $1 at FanDuel's actual price
 - `best_side` / `best_ev`: the better of the two sides
 
-Each run costs 1 credit per game. The free plan's 500 credits a month covers about two pulls per game day. Every pull is saved to `data/odds_snapshots/`. **Run it once in the morning to find bets, and again just before puck drop to capture the closing line.**
+Each pull costs 1 credit per game. Every pull is saved to `data/odds_snapshots/`. The nightly job handles both the morning pull and the closing pulls.
 
 Log bets in `results/bets.csv` (`date,name,line,side,price`). `clv.py` matches each bet to the last snapshot before puck drop. It reports CLV (closing no-vig probability minus the break-even probability of your price) and grades each bet against the actual result.
 

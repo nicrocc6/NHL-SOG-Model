@@ -13,6 +13,7 @@ import numpy as np
 import pandas as pd
 import requests
 from features import build
+from data_io import load_games
 from train import p_over
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -27,7 +28,8 @@ def american(p):
 
 def schedule(date):
     day = requests.get(f"{API}/schedule/{date}", timeout=30).json()["gameWeek"][0]
-    assert day["date"] == date, f"no games found for {date}"
+    if day["date"] != date:
+        return []
     return [(x["id"], x["awayTeam"]["abbrev"], x["homeTeam"]["abbrev"]) for x in day["games"] if x["gameType"] == 2]
 
 
@@ -45,13 +47,16 @@ def roster_ids(team):
 if __name__ == "__main__":
     date = sys.argv[1] if len(sys.argv) > 1 else datetime.now(ZoneInfo("America/Toronto")).strftime("%Y-%m-%d")
     bundle = joblib.load(ROOT / "models/sog_gbm.joblib")
-    g = pd.read_parquet(ROOT / "data/games.parquet")
+    g = load_games()
     g = g[g.gameDate < pd.Timestamp(date)]
     season = int(g.season.max())
     last = g.sort_values("gameDate").groupby("playerId").tail(1).set_index("playerId")
 
+    games = schedule(date)
+    if not games:
+        print(f"predict: no regular-season games on {date}"); sys.exit(0)
     new = []
-    for gid, away, home in schedule(date):
+    for gid, away, home in games:
         for team, opp, ha in ((away, home, "AWAY"), (home, away, "HOME")):
             # Skaters on the current roster who dressed in at least one of the team's last 3 games
             recent = g[g.playerTeam == team].gameId.drop_duplicates().nlargest(3)
@@ -61,14 +66,14 @@ if __name__ == "__main__":
                 new.append({"playerId": pid, "season": season, "name": r["name"], "gameId": gid, "playerTeam": team,
                             "opposingTeam": opp, "home_or_away": ha, "gameDate": pd.Timestamp(date),
                             "position": r["position"], "icetime": np.nan, "I_F_shotsOnGoal": np.nan,
-                            "I_F_shotAttempts": np.nan, "pp_toi": np.nan})
+                            "I_F_shotAttempts": np.nan})
     new = pd.DataFrame(new)
     d = build(pd.concat([g, new], ignore_index=True))
     d = d[(d.gameDate == pd.Timestamp(date)) & (d.n_prior >= 10)].copy()
 
     d["name"] = d.playerId.map(NAMES).fillna(d.name)
     d["proj_sog"] = np.clip(bundle["model"].predict(d[bundle["features"]]), 0.05, None) * bundle["scale"]
-    out = d[["name", "playerTeam", "opposingTeam", "home_or_away", "position", "toi_proj", "proj_sog"]].rename(
+    out = d[["playerId", "name", "playerTeam", "opposingTeam", "home_or_away", "position", "toi_proj", "proj_sog"]].rename(
         columns={"playerTeam": "team", "opposingTeam": "opp", "home_or_away": "venue", "toi_proj": "proj_toi"})
     for L in LINES:
         p = p_over(L, out.proj_sog.values, bundle["alpha"])

@@ -13,6 +13,7 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 from odds import implied, norm, payout
+from data_io import load_games
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -37,7 +38,7 @@ if __name__ == "__main__":
     b["clv"] = b.close_novig - implied(b.price)
     b["moved_my_way"] = implied(b.close_price) > implied(b.price)  # close got more expensive = you got the better number
 
-    g = pd.read_parquet(ROOT / "data/games.parquet")
+    g = load_games()
     g = g.assign(key=g.name.map(norm), date=g.gameDate.dt.strftime("%Y-%m-%d"))
     b = b.merge(g[["key", "date", "I_F_shotsOnGoal"]].rename(columns={"I_F_shotsOnGoal": "sog"}),
                 on=["key", "date"], how="left")

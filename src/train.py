@@ -11,6 +11,7 @@ import pandas as pd
 from scipy import stats, optimize
 from sklearn.ensemble import HistGradientBoostingRegressor
 from features import build, FEATURES
+from data_io import load_games
 
 ROOT = Path(__file__).resolve().parents[1]
 LINES = [0.5, 1.5, 2.5, 3.5, 4.5]
@@ -56,18 +57,16 @@ def calib_table(df, mu, alpha, line):
               .agg(n=("o", "size"), predicted=("p", "mean"), actual=("o", "mean")).round(3))
 
 
-if __name__ == "__main__":
-    g = pd.read_parquet(ROOT / "data/games.parquet")
+PARAMS = dict(loss="poisson", max_iter=600, learning_rate=0.03, max_leaf_nodes=31, min_samples_leaf=200,
+              l2_regularization=1.0, early_stopping=True, validation_fraction=0.15, random_state=0)
+
+
+def retrain(backtest=True):
+    g = load_games()
     d = build(g)
     d = d[(d.n_prior >= 10) & d.opp_sog_allowed.notna()].copy()
     tr, cal = d[d.season.isin([2022, 2023])], d[d.season == 2024]
-    tests = {"2025-26": d[d.season == 2025], "2026-27 (to date)": d[d.season == 2026]}
-
-    gbm = HistGradientBoostingRegressor(loss="poisson", max_iter=600, learning_rate=0.03, max_leaf_nodes=31,
-                                        min_samples_leaf=200, l2_regularization=1.0, early_stopping=True,
-                                        validation_fraction=0.15, random_state=0)
-    gbm.fit(tr[FEATURES], tr.sog)
-
+    gbm = HistGradientBoostingRegressor(**PARAMS).fit(tr[FEATURES], tr.sog)
     preds = {
         "Naive (last-15 avg SOG)": lambda x: x.sog_ewm15.clip(lower=0.05).values,
         "Structural (TOI x rate x opp)": lambda x: x.mu_struct.clip(lower=0.05).values,
@@ -76,39 +75,51 @@ if __name__ == "__main__":
     # League-level drift: rescale each model so its mean matches the calibration season, then fit dispersion
     scales = {k: float(cal.sog.mean() / f(cal).mean()) for k, f in preds.items()}
     preds = {k: (lambda x, f=f, s=scales[k]: f(x) * s) for k, f in preds.items()}
-    print("scale:", {k: round(v, 3) for k, v in scales.items()})
     alphas = {k: fit_alpha(cal.sog.values, f(cal)) for k, f in preds.items()}
-    print("NB dispersion alpha:", {k: round(v, 3) for k, v in alphas.items()})
-
-    rows = []
-    for tname, t in tests.items():
-        for k, f in preds.items():
-            r = evaluate(t, f(t), alphas[k], k); r["test"] = tname; rows.append(r)
-        # Props-relevant subset: regular top-9 forwards / top-4 D
-        sub = t[t.toi_proj >= 15]
-        r = evaluate(sub, preds["GBM (final)"](sub), alphas["GBM (final)"], "GBM (final), TOI>=15 only"); r["test"] = tname; rows.append(r)
-    res = pd.DataFrame(rows)
-    pd.set_option("display.width", 250)
-    print(res[["test", "model", "n", "nb_loglik_per_game", "mae", "mean_pred", "mean_actual",
-               "logloss_o1.5", "logloss_o2.5", "logloss_o3.5", "brier_o2.5"]].round(4).to_string(index=False))
-
-    t = tests["2025-26"]
-    mu = preds["GBM (final)"](t)
-    calib = {L: calib_table(t, mu, alphas["GBM (final)"], L) for L in [1.5, 2.5, 3.5]}
-    for L, c in calib.items():
-        print(f"\nCalibration 2025-26, over {L}:\n{c}")
-
-    # Refit on everything through 2025-26 for live use; keep the dispersion from the holdout fit
-    final = HistGradientBoostingRegressor(**gbm.get_params()).fit(
-        d[d.season <= 2025][FEATURES], d[d.season <= 2025].sog)
-    (ROOT / "models").mkdir(exist_ok=True)
-    recent = d[d.season == 2026]
-    live_scale = float(recent.sog.mean() / np.clip(final.predict(recent[FEATURES]), 0.05, None).mean())
-    print("live scale (refit model vs 2026-27 to date):", round(live_scale, 3))
-    joblib.dump({"model": final, "alpha": alphas["GBM (final)"], "scale": live_scale, "features": FEATURES}, ROOT / "models/sog_gbm.joblib")
     (ROOT / "results").mkdir(exist_ok=True)
-    res.to_csv(ROOT / "results/backtest_metrics.csv", index=False)
-    pd.concat({f"over_{L}": c for L, c in calib.items()}).to_csv(ROOT / "results/calibration_2025_26.csv")
-    pd.DataFrame({"name": t.name, "gameDate": t.gameDate, "team": t.playerTeam, "opp": t.opposingTeam,
-                  "mu": mu, "sog": t.sog}).to_csv(ROOT / "results/preds_2025_26.csv", index=False)
-    json.dump(alphas, open(ROOT / "results/alphas.json", "w"), indent=1)
+
+    if backtest:
+        tests = {"2025-26": d[d.season == 2025], "2026-27 (to date)": d[d.season == 2026]}
+        rows = []
+        for tname, t in tests.items():
+            for k, f in preds.items():
+                r = evaluate(t, f(t), alphas[k], k); r["test"] = tname; rows.append(r)
+            sub = t[t.toi_proj >= 15]
+            r = evaluate(sub, preds["GBM (final)"](sub), alphas["GBM (final)"], "GBM (final), TOI>=15 only")
+            r["test"] = tname; rows.append(r)
+        res = pd.DataFrame(rows)
+        pd.set_option("display.width", 250)
+        print(res[["test", "model", "n", "nb_loglik_per_game", "mae", "logloss_o1.5", "logloss_o2.5",
+                   "logloss_o3.5"]].round(4).to_string(index=False))
+        res.to_csv(ROOT / "results/backtest_metrics.csv", index=False)
+        t = tests["2025-26"]
+        calib = {L: calib_table(t, preds["GBM (final)"](t), alphas["GBM (final)"], L) for L in [1.5, 2.5, 3.5]}
+        pd.concat({f"over_{L}": c for L, c in calib.items()}).to_csv(ROOT / "results/calibration_2025_26.csv")
+        json.dump(alphas, open(ROOT / "results/alphas.json", "w"), indent=1)
+
+    # Live model: learn from EVERY game up to yesterday. The drift scale comes from a twin model that has
+    # not seen the last 30 days, scored on those 30 days (out of sample), so it reflects current shot rates.
+    cutoff = d.gameDate.max() - pd.Timedelta(days=30)
+    early, recent = d[d.gameDate <= cutoff], d[d.gameDate > cutoff]
+    twin = HistGradientBoostingRegressor(**PARAMS).fit(early[FEATURES], early.sog)
+    mu_recent = np.clip(twin.predict(recent[FEATURES]), 0.05, None)
+    scale = float(recent.sog.mean() / mu_recent.mean())
+    alpha = alphas["GBM (final)"]
+    holdout = evaluate(recent, mu_recent * scale, alpha, "last-30-days holdout")
+    final = HistGradientBoostingRegressor(**PARAMS).fit(d[FEATURES], d.sog)
+    (ROOT / "models").mkdir(exist_ok=True)
+    joblib.dump({"model": final, "alpha": alpha, "scale": scale, "features": FEATURES,
+                 "trained_through": str(d.gameDate.max().date()), "n_rows": int(len(d))}, ROOT / "models/sog_gbm.joblib")
+    hist = ROOT / "results/model_history.csv"
+    row = pd.DataFrame([{"trained_on": pd.Timestamp.now(tz="America/Toronto").strftime("%Y-%m-%d"),
+                         "data_through": str(d.gameDate.max().date()), "training_rows": len(d), "scale": round(scale, 4),
+                         "alpha": round(alpha, 4), "holdout_games": holdout["n"],
+                         "holdout_logloss_o1.5": round(holdout["logloss_o1.5"], 4),
+                         "holdout_logloss_o2.5": round(holdout["logloss_o2.5"], 4),
+                         "holdout_logloss_o3.5": round(holdout["logloss_o3.5"], 4), "holdout_mae": round(holdout["mae"], 4)}])
+    row.to_csv(hist, mode="a", header=not hist.exists(), index=False)
+    print("retrained:", row.to_dict("records")[0])
+
+
+if __name__ == "__main__":
+    retrain(backtest=True)

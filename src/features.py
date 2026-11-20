@@ -22,14 +22,13 @@ def team_games(g: pd.DataFrame) -> pd.DataFrame:
 def build(g: pd.DataFrame) -> pd.DataFrame:
     g = g.sort_values(["playerId", "gameDate"]).copy()
     g["toi"] = g.icetime / 60
-    g["pp_toi"] = g.pp_toi.fillna(0) / 60
     g["sog"] = g.I_F_shotsOnGoal
     g["att"] = g.I_F_shotAttempts
     g["is_d"] = (g.position == "D").astype(int)
     g["home"] = (g.home_or_away == "HOME").astype(int)
 
     p = g.groupby("playerId")
-    for c in ["toi", "pp_toi", "sog", "att"]:
+    for c in ["toi", "sog", "att"]:
         lag = p[c].shift()
         for s in SPANS:
             g[f"{c}_ewm{s}"] = lag.groupby(g.playerId).transform(lambda x, s=s: x.ewm(span=s, min_periods=1).mean())
