@@ -1,0 +1,11 @@
+event_id,commence_time,game,book,market,player,side,line,price,book_update,pulled_at
+b9678f4fdeb3125258b4679e9785fffb,2026-11-21T20:30:00Z,Chicago Blackhawks @ Calgary Flames,fanduel,player_shots_on_goal,Joel Farabee,over,2.5,104,2026-11-21T20:29:18Z,2026-11-21T1529
+b9678f4fdeb3125258b4679e9785fffb,2026-11-21T20:30:00Z,Chicago Blackhawks @ Calgary Flames,fanduel,player_shots_on_goal,Joel Farabee,under,2.5,-135,2026-11-21T20:29:18Z,2026-11-21T1529
+b9678f4fdeb3125258b4679e9785fffb,2026-11-21T20:30:00Z,Chicago Blackhawks @ Calgary Flames,fanduel,player_shots_on_goal,Matvei Gridin,over,2.5,136,2026-11-21T20:29:18Z,2026-11-21T1529
+b9678f4fdeb3125258b4679e9785fffb,2026-11-21T20:30:00Z,Chicago Blackhawks @ Calgary Flames,fanduel,player_shots_on_goal,Matvei Gridin,under,2.5,-178,2026-11-21T20:29:18Z,2026-11-21T1529
+b9678f4fdeb3125258b4679e9785fffb,2026-11-21T20:30:00Z,Chicago Blackhawks @ Calgary Flames,fanduel,player_shots_on_goal,Patrick Kane,over,2.5,154,2026-11-21T20:29:18Z,2026-11-21T1529
+b9678f4fdeb3125258b4679e9785fffb,2026-11-21T20:30:00Z,Chicago Blackhawks @ Calgary Flames,fanduel,player_shots_on_goal,Patrick Kane,under,2.5,-205,2026-11-21T20:29:18Z,2026-11-21T1529
+b9678f4fdeb3125258b4679e9785fffb,2026-11-21T20:30:00Z,Chicago Blackhawks @ Calgary Flames,fanduel,player_shots_on_goal,Frank Nazar,over,2.5,128,2026-11-21T20:29:18Z,2026-11-21T1529
+b9678f4fdeb3125258b4679e9785fffb,2026-11-21T20:30:00Z,Chicago Blackhawks @ Calgary Flames,fanduel,player_shots_on_goal,Frank Nazar,under,2.5,-168,2026-11-21T20:29:18Z,2026-11-21T1529
+b9678f4fdeb3125258b4679e9785fffb,2026-11-21T20:30:00Z,Chicago Blackhawks @ Calgary Flames,fanduel,player_shots_on_goal,Matt Coronato,over,2.5,-104,2026-11-21T20:29:18Z,2026-11-21T1529
+b9678f4fdeb3125258b4679e9785fffb,2026-11-21T20:30:00Z,Chicago Blackhawks @ Calgary Flames,fanduel,player_shots_on_goal,Matt Coronato,under,2.5,-125,2026-11-21T20:29:18Z,2026-11-21T1529
