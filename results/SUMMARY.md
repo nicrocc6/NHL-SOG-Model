@@ -1,11 +1,11 @@
 # Model scorecard
 
-_Updated 2026-11-20 10:20 ET by the nightly job._
+_Updated 2026-11-21 09:42 ET by the nightly job._
 
 ## Paper picks (every FanDuel prop at 5%+ EV at the morning pull)
 
 - All time: 16 bets, 9-7, +0.65 units, ROI +4.1%, avg CLV -3.0%, line moved your way 56%
-- Last 7 days: 2 bets, 0-2, -2.00 units, ROI -100.0%, avg CLV -5.2%, line moved your way 0%
+- Last 7 days: no graded bets yet
 - Last 30 days: 16 bets, 9-7, +0.65 units, ROI +4.1%, avg CLV -3.0%, line moved your way 56%
 
 ## Your real bets
