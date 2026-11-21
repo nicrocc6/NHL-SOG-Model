@@ -1,0 +1,21 @@
+event_id,commence_time,game,book,market,player,side,line,price,book_update,pulled_at
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Sebastian Aho,over,2.5,108,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Sebastian Aho,under,2.5,-140,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Andrei Svechnikov,over,2.5,-114,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Andrei Svechnikov,under,2.5,-114,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Nikolaj Ehlers,over,2.5,122,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Nikolaj Ehlers,under,2.5,-160,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Logan Stankoven,over,2.5,114,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Logan Stankoven,under,2.5,-148,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Zach Hyman,over,1.5,-152,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Zach Hyman,under,1.5,116,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Seth Jarvis,over,1.5,-164,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Seth Jarvis,under,1.5,125,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Connor McDavid,over,2.5,-122,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Connor McDavid,under,2.5,-106,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Leon Draisaitl,over,2.5,-120,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Leon Draisaitl,under,2.5,-108,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Evan Bouchard,over,2.5,154,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Evan Bouchard,under,2.5,-205,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Jackson Blake,over,2.5,114,2026-11-21T17:29:47Z,2026-11-21T1230
+43b2e285559dbe2bb5ddc1665bccddf2,2026-11-21T18:00:00Z,Edmonton Oilers @ Carolina Hurricanes,fanduel,player_shots_on_goal,Jackson Blake,under,2.5,-148,2026-11-21T17:29:47Z,2026-11-21T1230
