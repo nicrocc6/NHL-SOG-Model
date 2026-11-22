@@ -1,0 +1,28 @@
+game,playerId,name,team,line,over,under,proj_toi,proj_sog,model_over,novig_over,edge_over,book_hold,ev_over,ev_under,best_side,best_ev,commence_time
+Pittsburgh Penguins @ Dallas Stars,8480027.0,Jason Robertson,DAL,3.5,130,-170,20.36,3.67,0.485,0.408,0.077,0.064,0.117,-0.183,over,0.117,2026-11-23T00:10:00Z
+Buffalo Sabres @ Tampa Bay Lightning,8477404.0,Jake Guentzel,TBL,3.5,134,-176,22.26,2.78,0.307,0.401,-0.094,0.065,-0.282,0.087,under,0.087,2026-11-22T22:10:00Z
+Buffalo Sabres @ Tampa Bay Lightning,8480839.0,Rasmus Dahlin,BUF,2.5,104,-135,24.98,2.25,0.386,0.46,-0.074,0.065,-0.212,0.068,under,0.068,2026-11-22T22:10:00Z
+Chicago Blackhawks @ Vancouver Canucks,8478498.0,Jake DeBrusk,VAN,2.5,106,-138,17.67,2.77,0.509,0.456,0.053,0.065,0.049,-0.153,over,0.049,2026-11-23T01:10:00Z
+Chicago Blackhawks @ Vancouver Canucks,8478444.0,Brock Boeser,VAN,1.5,-196,148,21.81,2.51,0.693,0.622,0.071,0.065,0.046,-0.238,over,0.046,2026-11-23T01:10:00Z
+Carolina Hurricanes @ New York Rangers,8482109.0,Alexis Lafrenière,NYR,2.5,150,-198,17.91,1.94,0.308,0.376,-0.068,0.064,-0.231,0.042,under,0.042,2026-11-22T17:40:00Z
+Edmonton Oilers @ St Louis Blues,8483516.0,Jimmy Snuggerud,STL,2.5,106,-138,16.91,2.3,0.399,0.456,-0.057,0.065,-0.179,0.037,under,0.037,2026-11-23T00:10:00Z
+Pittsburgh Penguins @ Dallas Stars,8478420.0,Mikko Rantanen,DAL,2.5,150,-198,20.2,2.36,0.413,0.376,0.038,0.064,0.033,-0.117,over,0.033,2026-11-23T00:10:00Z
+Pittsburgh Penguins @ Dallas Stars,8471675.0,Sidney Crosby,PIT,2.5,140,-184,20.0,2.03,0.331,0.391,-0.061,0.065,-0.206,0.033,under,0.033,2026-11-23T00:10:00Z
+Buffalo Sabres @ Tampa Bay Lightning,8484145.0,Zach Benson,BUF,2.5,144,-188,21.02,2.03,0.331,0.386,-0.055,0.063,-0.193,0.025,under,0.025,2026-11-22T22:10:00Z
+Carolina Hurricanes @ New York Rangers,8476468.0,J.T. Miller,NYR,1.5,-170,130,19.54,1.91,0.555,0.592,-0.037,0.064,-0.118,0.023,under,0.023,2026-11-22T17:40:00Z
+Edmonton Oilers @ St Louis Blues,8482077.0,Dylan Holloway,STL,2.5,132,-174,16.15,2.41,0.426,0.404,0.021,0.066,-0.013,-0.095,over,-0.013,2026-11-23T00:10:00Z
+Buffalo Sabres @ Tampa Bay Lightning,8479420.0,Tage Thompson,BUF,3.5,122,-160,20.57,3.2,0.393,0.423,-0.029,0.066,-0.127,-0.014,under,-0.014,2026-11-22T22:10:00Z
+Carolina Hurricanes @ New York Rangers,8480830.0,Andrei Svechnikov,CAR,2.5,-110,-118,17.44,2.61,0.473,0.492,-0.019,0.065,-0.097,-0.026,under,-0.026,2026-11-22T17:40:00Z
+Pittsburgh Penguins @ Dallas Stars,8476483.0,Rickard Rakell,PIT,2.5,108,-140,20.06,2.59,0.468,0.452,0.016,0.064,-0.026,-0.088,over,-0.026,2026-11-23T00:10:00Z
+Edmonton Oilers @ St Louis Blues,8482745.0,Mason McTavish,STL,2.5,148,-196,15.48,2.27,0.391,0.378,0.013,0.065,-0.03,-0.081,over,-0.03,2026-11-23T00:10:00Z
+Carolina Hurricanes @ New York Rangers,8482157.0,Will Cuylle,NYR,1.5,-138,106,17.55,1.82,0.53,0.544,-0.014,0.065,-0.085,-0.033,under,-0.033,2026-11-22T17:40:00Z
+Carolina Hurricanes @ New York Rangers,8478427.0,Sebastian Aho,CAR,2.5,114,-148,19.76,2.52,0.452,0.439,0.013,0.064,-0.033,-0.081,over,-0.033,2026-11-22T17:40:00Z
+Carolina Hurricanes @ New York Rangers,8476459.0,Mika Zibanejad,NYR,1.5,-188,142,20.04,2.09,0.601,0.612,-0.011,0.066,-0.079,-0.034,under,-0.034,2026-11-22T17:40:00Z
+Buffalo Sabres @ Tampa Bay Lightning,8478010.0,Brayden Point,TBL,2.5,120,-156,18.02,2.37,0.416,0.427,-0.011,0.064,-0.085,-0.041,under,-0.041,2026-11-22T22:10:00Z
+Pittsburgh Penguins @ Dallas Stars,8482740.0,Wyatt Johnston,DAL,2.5,-128,-102,19.49,2.9,0.537,0.526,0.011,0.066,-0.043,-0.084,over,-0.043,2026-11-23T00:10:00Z
+Buffalo Sabres @ Tampa Bay Lightning,8482097.0,Jack Quinn,BUF,2.5,108,-140,18.01,2.55,0.459,0.452,0.007,0.064,-0.046,-0.072,over,-0.046,2026-11-22T22:10:00Z
+Pittsburgh Penguins @ Dallas Stars,8485414.0,Ben Kindel,PIT,1.5,-154,118,18.31,1.94,0.563,0.569,-0.006,0.065,-0.071,-0.047,under,-0.047,2026-11-23T00:10:00Z
+Carolina Hurricanes @ New York Rangers,8482702.0,Logan Stankoven,CAR,2.5,142,-188,16.0,2.28,0.394,0.388,0.006,0.066,-0.047,-0.071,over,-0.047,2026-11-22T17:40:00Z
+Buffalo Sabres @ Tampa Bay Lightning,8476453.0,Nikita Kucherov,TBL,3.5,112,-146,20.53,3.41,0.435,0.443,-0.008,0.065,-0.077,-0.048,under,-0.048,2026-11-22T22:10:00Z
+Buffalo Sabres @ Tampa Bay Lightning,8474590.0,John Carlson,TBL,1.5,-170,130,20.15,2.07,0.596,0.592,0.005,0.064,-0.053,-0.071,over,-0.053,2026-11-22T22:10:00Z
+Chicago Blackhawks @ Vancouver Canucks,8480078.0,Filip Chytil,VAN,2.5,112,-146,19.55,2.49,0.445,0.443,0.002,0.065,-0.057,-0.064,over,-0.057,2026-11-23T01:10:00Z

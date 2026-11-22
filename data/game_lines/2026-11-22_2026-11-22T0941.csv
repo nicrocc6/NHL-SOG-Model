@@ -1,0 +1,21 @@
+event_id,commence_time,home,away,book,market,name,point,price,book_update,pulled_at
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,New York Rangers,Carolina Hurricanes,fanduel,h2h,Carolina Hurricanes,,-162,2026-11-22T14:41:17Z,2026-11-22T0941
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,New York Rangers,Carolina Hurricanes,fanduel,h2h,New York Rangers,,132,2026-11-22T14:41:17Z,2026-11-22T0941
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,New York Rangers,Carolina Hurricanes,fanduel,totals,Over,6.5,106,2026-11-22T14:41:17Z,2026-11-22T0941
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,New York Rangers,Carolina Hurricanes,fanduel,totals,Under,6.5,-130,2026-11-22T14:41:17Z,2026-11-22T0941
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Tampa Bay Lightning,Buffalo Sabres,fanduel,h2h,Buffalo Sabres,,172,2026-11-22T14:41:17Z,2026-11-22T0941
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Tampa Bay Lightning,Buffalo Sabres,fanduel,h2h,Tampa Bay Lightning,,-210,2026-11-22T14:41:17Z,2026-11-22T0941
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Tampa Bay Lightning,Buffalo Sabres,fanduel,totals,Over,6.5,-106,2026-11-22T14:41:17Z,2026-11-22T0941
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Tampa Bay Lightning,Buffalo Sabres,fanduel,totals,Under,6.5,-114,2026-11-22T14:41:17Z,2026-11-22T0941
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Dallas Stars,Pittsburgh Penguins,fanduel,h2h,Dallas Stars,,-235,2026-11-22T14:41:17Z,2026-11-22T0941
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Dallas Stars,Pittsburgh Penguins,fanduel,h2h,Pittsburgh Penguins,,190,2026-11-22T14:41:17Z,2026-11-22T0941
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Dallas Stars,Pittsburgh Penguins,fanduel,totals,Over,6.5,104,2026-11-22T14:41:17Z,2026-11-22T0941
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Dallas Stars,Pittsburgh Penguins,fanduel,totals,Under,6.5,-128,2026-11-22T14:41:17Z,2026-11-22T0941
+7472170e7ddebcf27cc4e03a8b32edcc,2026-11-23T00:10:00Z,St Louis Blues,Edmonton Oilers,fanduel,h2h,Edmonton Oilers,,-110,2026-11-22T14:41:17Z,2026-11-22T0941
+7472170e7ddebcf27cc4e03a8b32edcc,2026-11-23T00:10:00Z,St Louis Blues,Edmonton Oilers,fanduel,h2h,St Louis Blues,,-110,2026-11-22T14:41:17Z,2026-11-22T0941
+7472170e7ddebcf27cc4e03a8b32edcc,2026-11-23T00:10:00Z,St Louis Blues,Edmonton Oilers,fanduel,totals,Over,5.5,-130,2026-11-22T14:41:17Z,2026-11-22T0941
+7472170e7ddebcf27cc4e03a8b32edcc,2026-11-23T00:10:00Z,St Louis Blues,Edmonton Oilers,fanduel,totals,Under,5.5,106,2026-11-22T14:41:17Z,2026-11-22T0941
+3a8553e25e16a66e676afc349395fec6,2026-11-23T01:10:00Z,Vancouver Canucks,Chicago Blackhawks,fanduel,h2h,Chicago Blackhawks,,-110,2026-11-22T14:41:17Z,2026-11-22T0941
+3a8553e25e16a66e676afc349395fec6,2026-11-23T01:10:00Z,Vancouver Canucks,Chicago Blackhawks,fanduel,h2h,Vancouver Canucks,,-110,2026-11-22T14:41:17Z,2026-11-22T0941
+3a8553e25e16a66e676afc349395fec6,2026-11-23T01:10:00Z,Vancouver Canucks,Chicago Blackhawks,fanduel,totals,Over,6.5,-102,2026-11-22T14:41:17Z,2026-11-22T0941
+3a8553e25e16a66e676afc349395fec6,2026-11-23T01:10:00Z,Vancouver Canucks,Chicago Blackhawks,fanduel,totals,Under,6.5,-120,2026-11-22T14:41:17Z,2026-11-22T0941
