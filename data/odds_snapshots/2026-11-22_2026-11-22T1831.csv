@@ -1,0 +1,21 @@
+event_id,commence_time,game,book,market,player,side,line,price,book_update,pulled_at
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Pittsburgh Penguins @ Dallas Stars,fanduel,player_shots_on_goal,Wyatt Johnston,over,2.5,-138,2026-11-22T23:31:20Z,2026-11-22T1831
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Pittsburgh Penguins @ Dallas Stars,fanduel,player_shots_on_goal,Wyatt Johnston,under,2.5,106,2026-11-22T23:31:20Z,2026-11-22T1831
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Pittsburgh Penguins @ Dallas Stars,fanduel,player_shots_on_goal,Mikko Rantanen,over,2.5,142,2026-11-22T23:31:20Z,2026-11-22T1831
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Pittsburgh Penguins @ Dallas Stars,fanduel,player_shots_on_goal,Mikko Rantanen,under,2.5,-188,2026-11-22T23:31:20Z,2026-11-22T1831
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Pittsburgh Penguins @ Dallas Stars,fanduel,player_shots_on_goal,Jason Robertson,over,2.5,-188,2026-11-22T23:31:20Z,2026-11-22T1831
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Pittsburgh Penguins @ Dallas Stars,fanduel,player_shots_on_goal,Jason Robertson,under,2.5,142,2026-11-22T23:31:20Z,2026-11-22T1831
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Pittsburgh Penguins @ Dallas Stars,fanduel,player_shots_on_goal,Yegor Chinakhov,over,1.5,-160,2026-11-22T23:31:20Z,2026-11-22T1831
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Pittsburgh Penguins @ Dallas Stars,fanduel,player_shots_on_goal,Yegor Chinakhov,under,1.5,122,2026-11-22T23:31:20Z,2026-11-22T1831
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Pittsburgh Penguins @ Dallas Stars,fanduel,player_shots_on_goal,Ben Kindel,over,1.5,-160,2026-11-22T23:31:20Z,2026-11-22T1831
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Pittsburgh Penguins @ Dallas Stars,fanduel,player_shots_on_goal,Ben Kindel,under,1.5,122,2026-11-22T23:31:20Z,2026-11-22T1831
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Pittsburgh Penguins @ Dallas Stars,fanduel,player_shots_on_goal,Rickard Rakell,over,2.5,106,2026-11-22T23:31:20Z,2026-11-22T1831
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Pittsburgh Penguins @ Dallas Stars,fanduel,player_shots_on_goal,Rickard Rakell,under,2.5,-138,2026-11-22T23:31:20Z,2026-11-22T1831
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Pittsburgh Penguins @ Dallas Stars,fanduel,player_shots_on_goal,Sidney Crosby,over,1.5,-164,2026-11-22T23:31:20Z,2026-11-22T1831
+d58a81d96dc96c937a865548f3a1a7c5,2026-11-23T00:10:00Z,Pittsburgh Penguins @ Dallas Stars,fanduel,player_shots_on_goal,Sidney Crosby,under,1.5,125,2026-11-22T23:31:20Z,2026-11-22T1831
+7472170e7ddebcf27cc4e03a8b32edcc,2026-11-23T00:10:00Z,Edmonton Oilers @ St Louis Blues,fanduel,player_shots_on_goal,Jimmy Snuggerud,over,2.5,114,2026-11-22T23:31:44Z,2026-11-22T1831
+7472170e7ddebcf27cc4e03a8b32edcc,2026-11-23T00:10:00Z,Edmonton Oilers @ St Louis Blues,fanduel,player_shots_on_goal,Jimmy Snuggerud,under,2.5,-148,2026-11-22T23:31:44Z,2026-11-22T1831
+7472170e7ddebcf27cc4e03a8b32edcc,2026-11-23T00:10:00Z,Edmonton Oilers @ St Louis Blues,fanduel,player_shots_on_goal,Mason McTavish,over,2.5,146,2026-11-22T23:31:44Z,2026-11-22T1831
+7472170e7ddebcf27cc4e03a8b32edcc,2026-11-23T00:10:00Z,Edmonton Oilers @ St Louis Blues,fanduel,player_shots_on_goal,Mason McTavish,under,2.5,-192,2026-11-22T23:31:44Z,2026-11-22T1831
+7472170e7ddebcf27cc4e03a8b32edcc,2026-11-23T00:10:00Z,Edmonton Oilers @ St Louis Blues,fanduel,player_shots_on_goal,Dylan Holloway,over,2.5,128,2026-11-22T23:31:44Z,2026-11-22T1831
+7472170e7ddebcf27cc4e03a8b32edcc,2026-11-23T00:10:00Z,Edmonton Oilers @ St Louis Blues,fanduel,player_shots_on_goal,Dylan Holloway,under,2.5,-168,2026-11-22T23:31:44Z,2026-11-22T1831
