@@ -1,0 +1,37 @@
+event_id,commence_time,game,book,market,player,side,line,price,book_update,pulled_at
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Brock Boeser,over,1.5,-140,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Brock Boeser,under,1.5,108,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Kirill Kaprizov,over,3.5,104,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Kirill Kaprizov,under,3.5,-135,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Joel Eriksson Ek,over,2.5,-156,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Joel Eriksson Ek,under,2.5,120,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Jake DeBrusk,over,2.5,122,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Jake DeBrusk,under,2.5,-160,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Blake Coleman,over,1.5,-198,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Blake Coleman,under,1.5,150,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Filip Chytil,over,2.5,130,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Filip Chytil,under,2.5,-170,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Jonathan Lekkerimäki,over,1.5,-114,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Jonathan Lekkerimäki,under,1.5,-114,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Brock Faber,over,2.5,126,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Brock Faber,under,2.5,-165,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Matt Boldy,over,3.5,-130,2026-11-22T02:41:08Z,2026-11-21T2141
+3e00ca5a69a2b305ed1f78590d590c7e,2026-11-22T03:00:00Z,Minnesota Wild @ Vancouver Canucks,fanduel,player_shots_on_goal,Matt Boldy,under,3.5,100,2026-11-22T02:41:08Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Mason Marchment,over,1.5,-130,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Mason Marchment,under,1.5,100,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Jordan Eberle,over,1.5,-146,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Jordan Eberle,under,1.5,112,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Macklin Celebrini,over,3.5,-128,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Macklin Celebrini,under,3.5,-102,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Bobby McMann,over,2.5,-108,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Bobby McMann,under,2.5,-120,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Berkly Catton,over,1.5,-128,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Berkly Catton,under,1.5,-102,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Vince Dunn,over,1.5,-176,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Vince Dunn,under,1.5,134,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Will Smith,over,2.5,-106,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Will Smith,under,2.5,-122,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Mackie Samoskevich,over,1.5,-178,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Mackie Samoskevich,under,1.5,136,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Ivar Stenberg,over,2.5,150,2026-11-22T02:40:30Z,2026-11-21T2141
+133b6fa32f89f05a14d7146ee5070a83,2026-11-22T03:00:00Z,Seattle Kraken @ San Jose Sharks,fanduel,player_shots_on_goal,Ivar Stenberg,under,2.5,-198,2026-11-22T02:40:30Z,2026-11-21T2141
