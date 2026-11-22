@@ -1,0 +1,15 @@
+event_id,commence_time,game,book,market,player,side,line,price,book_update,pulled_at
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,Carolina Hurricanes @ New York Rangers,fanduel,player_shots_on_goal,Sebastian Aho,over,2.5,-106,2026-11-22T17:32:27Z,2026-11-22T1232
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,Carolina Hurricanes @ New York Rangers,fanduel,player_shots_on_goal,Sebastian Aho,under,2.5,-122,2026-11-22T17:32:27Z,2026-11-22T1232
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,Carolina Hurricanes @ New York Rangers,fanduel,player_shots_on_goal,Mika Zibanejad,over,2.5,150,2026-11-22T17:32:27Z,2026-11-22T1232
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,Carolina Hurricanes @ New York Rangers,fanduel,player_shots_on_goal,Mika Zibanejad,under,2.5,-198,2026-11-22T17:32:27Z,2026-11-22T1232
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,Carolina Hurricanes @ New York Rangers,fanduel,player_shots_on_goal,Andrei Svechnikov,over,2.5,-102,2026-11-22T17:32:27Z,2026-11-22T1232
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,Carolina Hurricanes @ New York Rangers,fanduel,player_shots_on_goal,Andrei Svechnikov,under,2.5,-128,2026-11-22T17:32:27Z,2026-11-22T1232
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,Carolina Hurricanes @ New York Rangers,fanduel,player_shots_on_goal,Logan Stankoven,over,2.5,128,2026-11-22T17:32:27Z,2026-11-22T1232
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,Carolina Hurricanes @ New York Rangers,fanduel,player_shots_on_goal,Logan Stankoven,under,2.5,-168,2026-11-22T17:32:27Z,2026-11-22T1232
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,Carolina Hurricanes @ New York Rangers,fanduel,player_shots_on_goal,J.T. Miller,over,1.5,-184,2026-11-22T17:32:27Z,2026-11-22T1232
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,Carolina Hurricanes @ New York Rangers,fanduel,player_shots_on_goal,J.T. Miller,under,1.5,140,2026-11-22T17:32:27Z,2026-11-22T1232
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,Carolina Hurricanes @ New York Rangers,fanduel,player_shots_on_goal,Will Cuylle,over,1.5,-144,2026-11-22T17:32:27Z,2026-11-22T1232
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,Carolina Hurricanes @ New York Rangers,fanduel,player_shots_on_goal,Will Cuylle,under,1.5,110,2026-11-22T17:32:27Z,2026-11-22T1232
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,Carolina Hurricanes @ New York Rangers,fanduel,player_shots_on_goal,Alexis Lafrenière,over,2.5,144,2026-11-22T17:32:27Z,2026-11-22T1232
+95e13bf4ee868af6f8fe243270b31835,2026-11-22T17:40:00Z,Carolina Hurricanes @ New York Rangers,fanduel,player_shots_on_goal,Alexis Lafrenière,under,2.5,-190,2026-11-22T17:32:27Z,2026-11-22T1232
