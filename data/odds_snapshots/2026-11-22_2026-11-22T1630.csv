@@ -1,0 +1,17 @@
+event_id,commence_time,game,book,market,player,side,line,price,book_update,pulled_at
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Buffalo Sabres @ Tampa Bay Lightning,fanduel,player_shots_on_goal,John Carlson,over,1.5,-184,2026-11-22T21:29:57Z,2026-11-22T1630
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Buffalo Sabres @ Tampa Bay Lightning,fanduel,player_shots_on_goal,John Carlson,under,1.5,140,2026-11-22T21:29:57Z,2026-11-22T1630
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Buffalo Sabres @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Tage Thompson,over,2.5,-165,2026-11-22T21:29:57Z,2026-11-22T1630
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Buffalo Sabres @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Tage Thompson,under,2.5,126,2026-11-22T21:29:57Z,2026-11-22T1630
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Buffalo Sabres @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Nikita Kucherov,over,3.5,-102,2026-11-22T21:29:57Z,2026-11-22T1630
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Buffalo Sabres @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Nikita Kucherov,under,3.5,-128,2026-11-22T21:29:57Z,2026-11-22T1630
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Buffalo Sabres @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Jake Guentzel,over,3.5,130,2026-11-22T21:29:57Z,2026-11-22T1630
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Buffalo Sabres @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Jake Guentzel,under,3.5,-170,2026-11-22T21:29:57Z,2026-11-22T1630
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Buffalo Sabres @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Brayden Point,over,2.5,122,2026-11-22T21:29:57Z,2026-11-22T1630
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Buffalo Sabres @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Brayden Point,under,2.5,-160,2026-11-22T21:29:57Z,2026-11-22T1630
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Buffalo Sabres @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Zach Benson,over,1.5,-182,2026-11-22T21:29:57Z,2026-11-22T1630
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Buffalo Sabres @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Zach Benson,under,1.5,138,2026-11-22T21:29:57Z,2026-11-22T1630
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Buffalo Sabres @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Jack Quinn,over,2.5,112,2026-11-22T21:29:57Z,2026-11-22T1630
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Buffalo Sabres @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Jack Quinn,under,2.5,-146,2026-11-22T21:29:57Z,2026-11-22T1630
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Buffalo Sabres @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Rasmus Dahlin,over,2.5,112,2026-11-22T21:29:57Z,2026-11-22T1630
+5a749c9d02c984e711e097f31a446542,2026-11-22T22:10:00Z,Buffalo Sabres @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Rasmus Dahlin,under,2.5,-146,2026-11-22T21:29:57Z,2026-11-22T1630
