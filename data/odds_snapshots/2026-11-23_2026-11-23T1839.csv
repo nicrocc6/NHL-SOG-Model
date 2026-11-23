@@ -1,0 +1,23 @@
+event_id,commence_time,game,book,market,player,side,line,price,book_update,pulled_at
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Nico Hischier,over,2.5,150,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Nico Hischier,under,2.5,-198,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Timo Meier,over,3.5,130,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Timo Meier,under,3.5,-170,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Kent Johnson,over,1.5,-160,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Kent Johnson,under,1.5,122,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Adam Fantilli,over,2.5,-102,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Adam Fantilli,under,2.5,-128,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Matthew Knies,over,1.5,-114,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Matthew Knies,under,1.5,-114,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Jesper Bratt,over,1.5,-178,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Jesper Bratt,under,1.5,136,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Dougie Hamilton,over,2.5,108,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Dougie Hamilton,under,2.5,-140,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Arseny Gritsyuk,over,2.5,118,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Arseny Gritsyuk,under,2.5,-154,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Jack Hughes,over,3.5,-108,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Jack Hughes,under,3.5,-120,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Luke Hughes,over,1.5,-192,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Luke Hughes,under,1.5,146,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Zach Werenski,over,2.5,-170,2026-11-23T23:38:01Z,2026-11-23T1839
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,Columbus Blue Jackets @ New Jersey Devils,fanduel,player_shots_on_goal,Zach Werenski,under,2.5,130,2026-11-23T23:38:01Z,2026-11-23T1839
