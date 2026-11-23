@@ -1,0 +1,37 @@
+game,playerId,name,team,line,over,under,proj_toi,proj_sog,model_over,novig_over,edge_over,book_hold,ev_over,ev_under,best_side,best_ev,commence_time
+Columbus Blue Jackets @ New Jersey Devils,8482660,Kent Johnson,CBJ,1.5,-165,126,19.14,2.43,0.677,0.585,0.092,0.065,0.087,-0.27,over,0.087,2026-11-24T00:10:00Z
+Minnesota Wild @ San Jose Sharks,8478864,Kirill Kaprizov,MIN,3.5,-106,-122,21.82,3.26,0.405,0.484,-0.078,0.064,-0.212,0.082,under,0.082,2026-11-24T03:10:00Z
+Calgary Flames @ Ottawa Senators,8481528,Dylan Cozens,OTT,2.5,128,-168,17.1,2.6,0.471,0.412,0.059,0.065,0.073,-0.155,over,0.073,2026-11-24T00:40:00Z
+Anaheim Ducks @ Seattle Kraken,8474586,Jordan Eberle,SEA,1.5,-156,120,16.46,1.76,0.513,0.573,-0.059,0.064,-0.157,0.07,under,0.07,2026-11-24T02:50:00Z
+Anaheim Ducks @ Seattle Kraken,8483445,Cutter Gauthier,ANA,3.5,-165,126,19.67,3.94,0.535,0.585,-0.05,0.065,-0.141,0.051,under,0.051,2026-11-24T02:50:00Z
+Columbus Blue Jackets @ New Jersey Devils,8484166,Adam Fantilli,CBJ,2.5,102,-132,19.64,2.81,0.518,0.465,0.053,0.064,0.046,-0.153,over,0.046,2026-11-24T00:10:00Z
+Columbus Blue Jackets @ New Jersey Devils,8479407,Jesper Bratt,NJD,1.5,-156,120,17.45,2.2,0.627,0.573,0.054,0.064,0.029,-0.18,over,0.029,2026-11-24T00:10:00Z
+Columbus Blue Jackets @ New Jersey Devils,8481721,Arseny Gritsyuk,NJD,2.5,120,-156,16.04,2.2,0.374,0.427,-0.054,0.064,-0.178,0.028,under,0.028,2026-11-24T00:10:00Z
+Columbus Blue Jackets @ New Jersey Devils,8478414,Timo Meier,NJD,3.5,134,-176,17.52,3.42,0.437,0.401,0.036,0.065,0.023,-0.117,over,0.023,2026-11-24T00:10:00Z
+Anaheim Ducks @ Seattle Kraken,8482713,Mackie Samoskevich,SEA,1.5,-174,132,16.22,1.93,0.56,0.596,-0.035,0.066,-0.118,0.02,under,0.02,2026-11-24T02:50:00Z
+Minnesota Wild @ San Jose Sharks,8478493,Joel Eriksson Ek,MIN,2.5,-148,114,18.64,2.84,0.524,0.561,-0.036,0.064,-0.121,0.018,under,0.018,2026-11-24T03:10:00Z
+Minnesota Wild @ San Jose Sharks,8481557,Matt Boldy,MIN,3.5,-110,-118,21.37,3.49,0.451,0.492,-0.041,0.065,-0.139,0.014,under,0.014,2026-11-24T03:10:00Z
+Los Angeles Kings @ Montréal Canadiens,8480018,Nick Suzuki,MTL,2.5,-108,-120,20.28,2.51,0.449,0.488,-0.038,0.065,-0.134,0.009,under,0.009,2026-11-24T00:40:00Z
+Minnesota Wild @ San Jose Sharks,8484227,Will Smith,SJS,2.5,104,-135,18.98,2.39,0.421,0.46,-0.04,0.065,-0.142,0.009,under,0.009,2026-11-24T03:10:00Z
+Columbus Blue Jackets @ New Jersey Devils,8478460,Zach Werenski,CBJ,2.5,-164,125,27.18,2.97,0.552,0.583,-0.031,0.066,-0.111,0.008,under,0.008,2026-11-24T00:10:00Z
+Calgary Flames @ Ottawa Senators,8482679,Matt Coronato,CGY,2.5,128,-168,18.86,2.19,0.371,0.412,-0.04,0.065,-0.154,0.003,under,0.003,2026-11-24T00:40:00Z
+Minnesota Wild @ San Jose Sharks,8484801,Macklin Celebrini,SJS,3.5,-110,-118,22.16,3.86,0.521,0.492,0.029,0.065,-0.006,-0.114,over,-0.006,2026-11-24T03:10:00Z
+Anaheim Ducks @ Seattle Kraken,8482259,Bobby McMann,SEA,2.5,100,-130,17.46,2.47,0.44,0.469,-0.029,0.065,-0.12,-0.009,under,-0.009,2026-11-24T02:50:00Z
+Columbus Blue Jackets @ New Jersey Devils,8476462,Dougie Hamilton,NJD,2.5,106,-138,20.92,2.63,0.477,0.456,0.022,0.065,-0.016,-0.099,over,-0.016,2026-11-24T00:10:00Z
+Minnesota Wild @ San Jose Sharks,8482122,Brock Faber,MIN,2.5,142,-188,25.6,2.14,0.359,0.388,-0.029,0.066,-0.132,-0.017,under,-0.017,2026-11-24T03:10:00Z
+Toronto Maple Leafs @ New York Islanders,8485366,Matthew Schaefer,NYI,3.5,118,-154,26.38,3.26,0.405,0.431,-0.025,0.065,-0.117,-0.019,under,-0.019,2026-11-24T00:40:00Z
+Columbus Blue Jackets @ New Jersey Devils,8480002,Nico Hischier,NJD,2.5,144,-190,18.56,2.14,0.359,0.385,-0.026,0.065,-0.125,-0.021,under,-0.021,2026-11-24T00:10:00Z
+Columbus Blue Jackets @ New Jersey Devils,8482684,Luke Hughes,NJD,1.5,-198,150,23.9,2.29,0.647,0.624,0.023,0.064,-0.026,-0.118,over,-0.026,2026-11-24T00:10:00Z
+Los Angeles Kings @ Montréal Canadiens,8481540,Cole Caufield,MTL,3.5,120,-156,18.52,3.28,0.409,0.427,-0.018,0.064,-0.1,-0.031,under,-0.031,2026-11-24T00:40:00Z
+Minnesota Wild @ San Jose Sharks,8486103,Ivar Stenberg,SJS,1.5,-138,106,18.24,1.93,0.56,0.544,0.016,0.065,-0.034,-0.094,over,-0.034,2026-11-24T03:10:00Z
+Calgary Flames @ Ottawa Senators,8474150,Mikael Backlund,CGY,1.5,-178,136,19.08,2.16,0.618,0.602,0.016,0.064,-0.035,-0.098,over,-0.035,2026-11-24T00:40:00Z
+Anaheim Ducks @ Seattle Kraken,8477986,Brandon Montour,SEA,2.5,126,-165,24.85,2.31,0.401,0.415,-0.014,0.065,-0.094,-0.038,under,-0.038,2026-11-24T02:50:00Z
+Utah Mammoth @ Winnipeg Jets,8480014,Gabriel Vilardi,WPG,1.5,-160,122,20.44,1.96,0.568,0.577,-0.009,0.066,-0.077,-0.041,under,-0.041,2026-11-24T00:40:00Z
+Toronto Maple Leafs @ New York Islanders,8477500,Bo Horvat,NYI,2.5,-160,122,20.17,3.06,0.57,0.577,-0.007,0.066,-0.073,-0.046,under,-0.046,2026-11-24T00:40:00Z
+Calgary Flames @ Ottawa Senators,8480797,Joel Farabee,CGY,1.5,-205,154,19.92,2.26,0.641,0.631,0.01,0.066,-0.047,-0.087,over,-0.047,2026-11-24T00:40:00Z
+Calgary Flames @ Ottawa Senators,8482116,Tim Stützle,OTT,2.5,126,-165,21.51,2.39,0.421,0.415,0.005,0.065,-0.049,-0.07,over,-0.049,2026-11-24T00:40:00Z
+Los Angeles Kings @ Montréal Canadiens,8483515,Juraj Slafkovský,MTL,2.5,122,-160,19.0,2.42,0.428,0.423,0.005,0.066,-0.05,-0.07,over,-0.05,2026-11-24T00:40:00Z
+Utah Mammoth @ Winnipeg Jets,8478398,Kyle Connor,WPG,3.5,108,-140,22.17,3.51,0.455,0.452,0.003,0.064,-0.054,-0.065,over,-0.054,2026-11-24T00:40:00Z
+Columbus Blue Jackets @ New Jersey Devils,8481559,Jack Hughes,NJD,3.5,-110,-118,20.7,3.72,0.495,0.492,0.003,0.065,-0.055,-0.067,over,-0.055,2026-11-24T00:10:00Z
+Utah Mammoth @ Winnipeg Jets,8476460,Mark Scheifele,WPG,2.5,154,-205,22.75,2.19,0.371,0.369,0.002,0.066,-0.057,-0.064,over,-0.057,2026-11-24T00:40:00Z
+Columbus Blue Jackets @ New Jersey Devils,8482720,Matthew Knies,CBJ,1.5,-113,-115,19.16,1.7,0.496,0.498,-0.002,0.065,-0.065,-0.058,under,-0.058,2026-11-24T00:10:00Z

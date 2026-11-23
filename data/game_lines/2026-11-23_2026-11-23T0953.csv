@@ -1,0 +1,29 @@
+event_id,commence_time,home,away,book,market,name,point,price,book_update,pulled_at
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,New Jersey Devils,Columbus Blue Jackets,fanduel,h2h,Columbus Blue Jackets,,168,2026-11-23T14:53:16Z,2026-11-23T0953
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,New Jersey Devils,Columbus Blue Jackets,fanduel,h2h,New Jersey Devils,,-205,2026-11-23T14:53:16Z,2026-11-23T0953
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,New Jersey Devils,Columbus Blue Jackets,fanduel,totals,Over,6.5,108,2026-11-23T14:53:16Z,2026-11-23T0953
+e9429c68a48753de9779d88e6cf393ad,2026-11-24T00:10:00Z,New Jersey Devils,Columbus Blue Jackets,fanduel,totals,Under,6.5,-132,2026-11-23T14:53:16Z,2026-11-23T0953
+d127e1e72a1b9087aca692f3b5812532,2026-11-24T00:40:00Z,Ottawa Senators,Calgary Flames,fanduel,h2h,Calgary Flames,,190,2026-11-23T14:53:16Z,2026-11-23T0953
+d127e1e72a1b9087aca692f3b5812532,2026-11-24T00:40:00Z,Ottawa Senators,Calgary Flames,fanduel,h2h,Ottawa Senators,,-235,2026-11-23T14:53:16Z,2026-11-23T0953
+d127e1e72a1b9087aca692f3b5812532,2026-11-24T00:40:00Z,Ottawa Senators,Calgary Flames,fanduel,totals,Over,5.5,-122,2026-11-23T14:53:16Z,2026-11-23T0953
+d127e1e72a1b9087aca692f3b5812532,2026-11-24T00:40:00Z,Ottawa Senators,Calgary Flames,fanduel,totals,Under,5.5,100,2026-11-23T14:53:16Z,2026-11-23T0953
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Montréal Canadiens,Los Angeles Kings,fanduel,h2h,Los Angeles Kings,,128,2026-11-23T14:53:16Z,2026-11-23T0953
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Montréal Canadiens,Los Angeles Kings,fanduel,h2h,Montréal Canadiens,,-154,2026-11-23T14:53:16Z,2026-11-23T0953
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Montréal Canadiens,Los Angeles Kings,fanduel,totals,Over,6.5,110,2026-11-23T14:53:16Z,2026-11-23T0953
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Montréal Canadiens,Los Angeles Kings,fanduel,totals,Under,6.5,-134,2026-11-23T14:53:16Z,2026-11-23T0953
+2d095386ab1321c89df24896d98495ee,2026-11-24T00:40:00Z,New York Islanders,Toronto Maple Leafs,fanduel,h2h,New York Islanders,,-160,2026-11-23T14:53:16Z,2026-11-23T0953
+2d095386ab1321c89df24896d98495ee,2026-11-24T00:40:00Z,New York Islanders,Toronto Maple Leafs,fanduel,h2h,Toronto Maple Leafs,,132,2026-11-23T14:53:16Z,2026-11-23T0953
+2d095386ab1321c89df24896d98495ee,2026-11-24T00:40:00Z,New York Islanders,Toronto Maple Leafs,fanduel,totals,Over,6.5,-105,2026-11-23T14:53:16Z,2026-11-23T0953
+2d095386ab1321c89df24896d98495ee,2026-11-24T00:40:00Z,New York Islanders,Toronto Maple Leafs,fanduel,totals,Under,6.5,-115,2026-11-23T14:53:16Z,2026-11-23T0953
+e2efcb24b2d9689232946057b7e43d23,2026-11-24T00:40:00Z,Winnipeg Jets,Utah Mammoth,fanduel,h2h,Utah Mammoth,,-118,2026-11-23T14:53:16Z,2026-11-23T0953
+e2efcb24b2d9689232946057b7e43d23,2026-11-24T00:40:00Z,Winnipeg Jets,Utah Mammoth,fanduel,h2h,Winnipeg Jets,,-102,2026-11-23T14:53:16Z,2026-11-23T0953
+e2efcb24b2d9689232946057b7e43d23,2026-11-24T00:40:00Z,Winnipeg Jets,Utah Mammoth,fanduel,totals,Over,6.5,-108,2026-11-23T14:53:16Z,2026-11-23T0953
+e2efcb24b2d9689232946057b7e43d23,2026-11-24T00:40:00Z,Winnipeg Jets,Utah Mammoth,fanduel,totals,Under,6.5,-112,2026-11-23T14:53:16Z,2026-11-23T0953
+5074be0d13d60cc7fd82b06c4d8ddd31,2026-11-24T02:50:00Z,Seattle Kraken,Anaheim Ducks,fanduel,h2h,Anaheim Ducks,,100,2026-11-23T14:53:16Z,2026-11-23T0953
+5074be0d13d60cc7fd82b06c4d8ddd31,2026-11-24T02:50:00Z,Seattle Kraken,Anaheim Ducks,fanduel,h2h,Seattle Kraken,,-120,2026-11-23T14:53:16Z,2026-11-23T0953
+5074be0d13d60cc7fd82b06c4d8ddd31,2026-11-24T02:50:00Z,Seattle Kraken,Anaheim Ducks,fanduel,totals,Over,6.5,-130,2026-11-23T14:53:16Z,2026-11-23T0953
+5074be0d13d60cc7fd82b06c4d8ddd31,2026-11-24T02:50:00Z,Seattle Kraken,Anaheim Ducks,fanduel,totals,Under,6.5,106,2026-11-23T14:53:16Z,2026-11-23T0953
+43376208ec2111794696249fe50f5e84,2026-11-24T03:10:00Z,San Jose Sharks,Minnesota Wild,fanduel,h2h,Minnesota Wild,,-200,2026-11-23T14:53:16Z,2026-11-23T0953
+43376208ec2111794696249fe50f5e84,2026-11-24T03:10:00Z,San Jose Sharks,Minnesota Wild,fanduel,h2h,San Jose Sharks,,164,2026-11-23T14:53:16Z,2026-11-23T0953
+43376208ec2111794696249fe50f5e84,2026-11-24T03:10:00Z,San Jose Sharks,Minnesota Wild,fanduel,totals,Over,6.5,-104,2026-11-23T14:53:16Z,2026-11-23T0953
+43376208ec2111794696249fe50f5e84,2026-11-24T03:10:00Z,San Jose Sharks,Minnesota Wild,fanduel,totals,Under,6.5,-118,2026-11-23T14:53:16Z,2026-11-23T0953

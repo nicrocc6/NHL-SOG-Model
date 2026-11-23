@@ -1,5 +1,5 @@
 {
  "Naive (last-15 avg SOG)": 0.09044767748113065,
- "Structural (TOI x rate x opp)": 0.0639388897101454,
- "GBM (final)": 0.06047614324186348
+ "Structural (TOI x rate x opp)": 0.06393724837730437,
+ "GBM (final)": 0.060631029708509684
 }
