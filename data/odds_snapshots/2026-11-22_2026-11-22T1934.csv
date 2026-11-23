@@ -1,0 +1,7 @@
+event_id,commence_time,game,book,market,player,side,line,price,book_update,pulled_at
+3a8553e25e16a66e676afc349395fec6,2026-11-23T01:10:00Z,Chicago Blackhawks @ Vancouver Canucks,fanduel,player_shots_on_goal,Brock Boeser,over,1.5,-184,2026-11-23T00:33:26Z,2026-11-22T1934
+3a8553e25e16a66e676afc349395fec6,2026-11-23T01:10:00Z,Chicago Blackhawks @ Vancouver Canucks,fanduel,player_shots_on_goal,Brock Boeser,under,1.5,140,2026-11-23T00:33:26Z,2026-11-22T1934
+3a8553e25e16a66e676afc349395fec6,2026-11-23T01:10:00Z,Chicago Blackhawks @ Vancouver Canucks,fanduel,player_shots_on_goal,Jake DeBrusk,over,2.5,116,2026-11-23T00:33:26Z,2026-11-22T1934
+3a8553e25e16a66e676afc349395fec6,2026-11-23T01:10:00Z,Chicago Blackhawks @ Vancouver Canucks,fanduel,player_shots_on_goal,Jake DeBrusk,under,2.5,-152,2026-11-23T00:33:26Z,2026-11-22T1934
+3a8553e25e16a66e676afc349395fec6,2026-11-23T01:10:00Z,Chicago Blackhawks @ Vancouver Canucks,fanduel,player_shots_on_goal,Filip Chytil,over,2.5,122,2026-11-23T00:33:26Z,2026-11-22T1934
+3a8553e25e16a66e676afc349395fec6,2026-11-23T01:10:00Z,Chicago Blackhawks @ Vancouver Canucks,fanduel,player_shots_on_goal,Filip Chytil,under,2.5,-160,2026-11-23T00:33:26Z,2026-11-22T1934
