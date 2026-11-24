@@ -1,0 +1,39 @@
+event_id,commence_time,game,book,market,player,side,line,price,book_update,pulled_at
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Los Angeles Kings @ Montréal Canadiens,fanduel,player_shots_on_goal,Nick Suzuki,over,2.5,-115,2026-11-24T00:37:51Z,2026-11-23T1937
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Los Angeles Kings @ Montréal Canadiens,fanduel,player_shots_on_goal,Nick Suzuki,under,2.5,-113,2026-11-24T00:37:51Z,2026-11-23T1937
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Los Angeles Kings @ Montréal Canadiens,fanduel,player_shots_on_goal,Cole Caufield,over,3.5,104,2026-11-24T00:37:51Z,2026-11-23T1937
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Los Angeles Kings @ Montréal Canadiens,fanduel,player_shots_on_goal,Cole Caufield,under,3.5,-135,2026-11-24T00:37:51Z,2026-11-23T1937
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Los Angeles Kings @ Montréal Canadiens,fanduel,player_shots_on_goal,Juraj Slafkovsky,over,2.5,-106,2026-11-24T00:37:51Z,2026-11-23T1937
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Los Angeles Kings @ Montréal Canadiens,fanduel,player_shots_on_goal,Juraj Slafkovsky,under,2.5,-122,2026-11-24T00:37:51Z,2026-11-23T1937
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Los Angeles Kings @ Montréal Canadiens,fanduel,player_shots_on_goal,Quinton Byfield,over,2.5,128,2026-11-24T00:37:51Z,2026-11-23T1937
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Los Angeles Kings @ Montréal Canadiens,fanduel,player_shots_on_goal,Quinton Byfield,under,2.5,-168,2026-11-24T00:37:51Z,2026-11-23T1937
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Los Angeles Kings @ Montréal Canadiens,fanduel,player_shots_on_goal,Artemi Panarin,over,2.5,-164,2026-11-24T00:37:51Z,2026-11-23T1937
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Los Angeles Kings @ Montréal Canadiens,fanduel,player_shots_on_goal,Artemi Panarin,under,2.5,125,2026-11-24T00:37:51Z,2026-11-23T1937
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Los Angeles Kings @ Montréal Canadiens,fanduel,player_shots_on_goal,Adrian Kempe,over,2.5,-104,2026-11-24T00:37:51Z,2026-11-23T1937
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Los Angeles Kings @ Montréal Canadiens,fanduel,player_shots_on_goal,Adrian Kempe,under,2.5,-125,2026-11-24T00:37:51Z,2026-11-23T1937
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Los Angeles Kings @ Montréal Canadiens,fanduel,player_shots_on_goal,Kevin Fiala,over,1.5,-205,2026-11-24T00:37:51Z,2026-11-23T1937
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Los Angeles Kings @ Montréal Canadiens,fanduel,player_shots_on_goal,Kevin Fiala,under,1.5,154,2026-11-24T00:37:51Z,2026-11-23T1937
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Los Angeles Kings @ Montréal Canadiens,fanduel,player_shots_on_goal,Alex Laferriere,over,2.5,-115,2026-11-24T00:37:51Z,2026-11-23T1937
+806787e1b3ac73d09e3ae05f6d595865,2026-11-24T00:40:00Z,Los Angeles Kings @ Montréal Canadiens,fanduel,player_shots_on_goal,Alex Laferriere,under,2.5,-113,2026-11-24T00:37:51Z,2026-11-23T1937
+2d095386ab1321c89df24896d98495ee,2026-11-24T00:40:00Z,Toronto Maple Leafs @ New York Islanders,fanduel,player_shots_on_goal,Bo Horvat,over,2.5,-156,2026-11-24T00:37:05Z,2026-11-23T1937
+2d095386ab1321c89df24896d98495ee,2026-11-24T00:40:00Z,Toronto Maple Leafs @ New York Islanders,fanduel,player_shots_on_goal,Bo Horvat,under,2.5,120,2026-11-24T00:37:05Z,2026-11-23T1937
+2d095386ab1321c89df24896d98495ee,2026-11-24T00:40:00Z,Toronto Maple Leafs @ New York Islanders,fanduel,player_shots_on_goal,Matthew Schaefer,over,3.5,114,2026-11-24T00:37:05Z,2026-11-23T1937
+2d095386ab1321c89df24896d98495ee,2026-11-24T00:40:00Z,Toronto Maple Leafs @ New York Islanders,fanduel,player_shots_on_goal,Matthew Schaefer,under,3.5,-148,2026-11-24T00:37:05Z,2026-11-23T1937
+e2efcb24b2d9689232946057b7e43d23,2026-11-24T00:40:00Z,Utah Mammoth @ Winnipeg Jets,fanduel,player_shots_on_goal,Gabriel Vilardi,over,1.5,-160,2026-11-24T00:37:51Z,2026-11-23T1937
+e2efcb24b2d9689232946057b7e43d23,2026-11-24T00:40:00Z,Utah Mammoth @ Winnipeg Jets,fanduel,player_shots_on_goal,Gabriel Vilardi,under,1.5,122,2026-11-24T00:37:51Z,2026-11-23T1937
+e2efcb24b2d9689232946057b7e43d23,2026-11-24T00:40:00Z,Utah Mammoth @ Winnipeg Jets,fanduel,player_shots_on_goal,Kyle Connor,over,3.5,116,2026-11-24T00:37:51Z,2026-11-23T1937
+e2efcb24b2d9689232946057b7e43d23,2026-11-24T00:40:00Z,Utah Mammoth @ Winnipeg Jets,fanduel,player_shots_on_goal,Kyle Connor,under,3.5,-152,2026-11-24T00:37:51Z,2026-11-23T1937
+e2efcb24b2d9689232946057b7e43d23,2026-11-24T00:40:00Z,Utah Mammoth @ Winnipeg Jets,fanduel,player_shots_on_goal,Mark Scheifele,over,1.5,-196,2026-11-24T00:37:51Z,2026-11-23T1937
+e2efcb24b2d9689232946057b7e43d23,2026-11-24T00:40:00Z,Utah Mammoth @ Winnipeg Jets,fanduel,player_shots_on_goal,Mark Scheifele,under,1.5,148,2026-11-24T00:37:51Z,2026-11-23T1937
+d127e1e72a1b9087aca692f3b5812532,2026-11-24T00:45:00Z,Calgary Flames @ Ottawa Senators,fanduel,player_shots_on_goal,Drake Batherson,over,2.5,150,2026-11-24T00:37:09Z,2026-11-23T1937
+d127e1e72a1b9087aca692f3b5812532,2026-11-24T00:45:00Z,Calgary Flames @ Ottawa Senators,fanduel,player_shots_on_goal,Drake Batherson,under,2.5,-198,2026-11-24T00:37:09Z,2026-11-23T1937
+d127e1e72a1b9087aca692f3b5812532,2026-11-24T00:45:00Z,Calgary Flames @ Ottawa Senators,fanduel,player_shots_on_goal,Mikael Backlund,over,1.5,-170,2026-11-24T00:37:09Z,2026-11-23T1937
+d127e1e72a1b9087aca692f3b5812532,2026-11-24T00:45:00Z,Calgary Flames @ Ottawa Senators,fanduel,player_shots_on_goal,Mikael Backlund,under,1.5,130,2026-11-24T00:37:09Z,2026-11-23T1937
+d127e1e72a1b9087aca692f3b5812532,2026-11-24T00:45:00Z,Calgary Flames @ Ottawa Senators,fanduel,player_shots_on_goal,Tim Stützle,over,2.5,116,2026-11-24T00:37:09Z,2026-11-23T1937
+d127e1e72a1b9087aca692f3b5812532,2026-11-24T00:45:00Z,Calgary Flames @ Ottawa Senators,fanduel,player_shots_on_goal,Tim Stützle,under,2.5,-152,2026-11-24T00:37:09Z,2026-11-23T1937
+d127e1e72a1b9087aca692f3b5812532,2026-11-24T00:45:00Z,Calgary Flames @ Ottawa Senators,fanduel,player_shots_on_goal,Matt Coronato,over,2.5,128,2026-11-24T00:37:09Z,2026-11-23T1937
+d127e1e72a1b9087aca692f3b5812532,2026-11-24T00:45:00Z,Calgary Flames @ Ottawa Senators,fanduel,player_shots_on_goal,Matt Coronato,under,2.5,-168,2026-11-24T00:37:09Z,2026-11-23T1937
+d127e1e72a1b9087aca692f3b5812532,2026-11-24T00:45:00Z,Calgary Flames @ Ottawa Senators,fanduel,player_shots_on_goal,Joel Farabee,over,2.5,142,2026-11-24T00:37:09Z,2026-11-23T1937
+d127e1e72a1b9087aca692f3b5812532,2026-11-24T00:45:00Z,Calgary Flames @ Ottawa Senators,fanduel,player_shots_on_goal,Joel Farabee,under,2.5,-188,2026-11-24T00:37:09Z,2026-11-23T1937
+d127e1e72a1b9087aca692f3b5812532,2026-11-24T00:45:00Z,Calgary Flames @ Ottawa Senators,fanduel,player_shots_on_goal,Dylan Cozens,over,2.5,122,2026-11-24T00:37:09Z,2026-11-23T1937
+d127e1e72a1b9087aca692f3b5812532,2026-11-24T00:45:00Z,Calgary Flames @ Ottawa Senators,fanduel,player_shots_on_goal,Dylan Cozens,under,2.5,-156,2026-11-24T00:37:09Z,2026-11-23T1937
