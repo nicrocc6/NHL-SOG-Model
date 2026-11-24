@@ -1,0 +1,6 @@
+game,playerId,name,team,line,over,under,proj_toi,proj_sog,model_over,novig_over,edge_over,book_hold,ev_over,ev_under,best_side,best_ev,commence_time
+Vegas Golden Knights @ Edmonton Oilers,8484803,Trevor Connelly,VGK,1.5,-164,125,16.08,2.26,0.641,0.583,0.058,0.066,0.031,-0.192,over,0.031,2026-11-25T01:10:00Z
+Vegas Golden Knights @ Edmonton Oilers,8478403,Jack Eichel,VGK,2.5,-115,-113,22.03,2.82,0.52,0.502,0.018,0.065,-0.028,-0.095,over,-0.028,2026-11-25T01:10:00Z
+Vegas Golden Knights @ Edmonton Oilers,8476881,Tomas Hertl,VGK,1.5,-188,142,15.77,2.21,0.629,0.612,0.017,0.066,-0.036,-0.103,over,-0.036,2026-11-25T01:10:00Z
+Vegas Golden Knights @ Edmonton Oilers,8475913,Mark Stone,VGK,1.5,-144,110,19.95,1.94,0.563,0.553,0.01,0.066,-0.046,-0.082,over,-0.046,2026-11-25T01:10:00Z
+Vegas Golden Knights @ Edmonton Oilers,8478483,Mitch Marner,VGK,2.5,108,-140,21.84,2.5,0.447,0.452,-0.005,0.064,-0.07,-0.052,under,-0.052,2026-11-25T01:10:00Z

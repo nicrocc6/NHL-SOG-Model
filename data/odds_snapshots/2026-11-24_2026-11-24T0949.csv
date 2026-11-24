@@ -1,0 +1,11 @@
+event_id,commence_time,game,book,market,player,side,line,price,book_update,pulled_at
+155fbdda10b6474a41649023baadfdf3,2026-11-25T01:10:00Z,Vegas Golden Knights @ Edmonton Oilers,fanduel,player_shots_on_goal,Mitch Marner,over,2.5,108,2026-11-24T14:49:46Z,2026-11-24T0949
+155fbdda10b6474a41649023baadfdf3,2026-11-25T01:10:00Z,Vegas Golden Knights @ Edmonton Oilers,fanduel,player_shots_on_goal,Mitch Marner,under,2.5,-140,2026-11-24T14:49:46Z,2026-11-24T0949
+155fbdda10b6474a41649023baadfdf3,2026-11-25T01:10:00Z,Vegas Golden Knights @ Edmonton Oilers,fanduel,player_shots_on_goal,Jack Eichel,over,2.5,-115,2026-11-24T14:49:46Z,2026-11-24T0949
+155fbdda10b6474a41649023baadfdf3,2026-11-25T01:10:00Z,Vegas Golden Knights @ Edmonton Oilers,fanduel,player_shots_on_goal,Jack Eichel,under,2.5,-113,2026-11-24T14:49:46Z,2026-11-24T0949
+155fbdda10b6474a41649023baadfdf3,2026-11-25T01:10:00Z,Vegas Golden Knights @ Edmonton Oilers,fanduel,player_shots_on_goal,Trevor Connelly,over,1.5,-164,2026-11-24T14:49:46Z,2026-11-24T0949
+155fbdda10b6474a41649023baadfdf3,2026-11-25T01:10:00Z,Vegas Golden Knights @ Edmonton Oilers,fanduel,player_shots_on_goal,Trevor Connelly,under,1.5,125,2026-11-24T14:49:46Z,2026-11-24T0949
+155fbdda10b6474a41649023baadfdf3,2026-11-25T01:10:00Z,Vegas Golden Knights @ Edmonton Oilers,fanduel,player_shots_on_goal,Mark Stone,over,1.5,-144,2026-11-24T14:49:46Z,2026-11-24T0949
+155fbdda10b6474a41649023baadfdf3,2026-11-25T01:10:00Z,Vegas Golden Knights @ Edmonton Oilers,fanduel,player_shots_on_goal,Mark Stone,under,1.5,110,2026-11-24T14:49:46Z,2026-11-24T0949
+155fbdda10b6474a41649023baadfdf3,2026-11-25T01:10:00Z,Vegas Golden Knights @ Edmonton Oilers,fanduel,player_shots_on_goal,Tomas Hertl,over,1.5,-188,2026-11-24T14:49:46Z,2026-11-24T0949
+155fbdda10b6474a41649023baadfdf3,2026-11-25T01:10:00Z,Vegas Golden Knights @ Edmonton Oilers,fanduel,player_shots_on_goal,Tomas Hertl,under,1.5,142,2026-11-24T14:49:46Z,2026-11-24T0949

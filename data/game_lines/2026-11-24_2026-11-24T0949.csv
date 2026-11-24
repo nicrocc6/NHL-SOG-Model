@@ -1,0 +1,5 @@
+event_id,commence_time,home,away,book,market,name,point,price,book_update,pulled_at
+155fbdda10b6474a41649023baadfdf3,2026-11-25T01:10:00Z,Edmonton Oilers,Vegas Golden Knights,fanduel,h2h,Edmonton Oilers,,-102,2026-11-24T14:49:33Z,2026-11-24T0949
+155fbdda10b6474a41649023baadfdf3,2026-11-25T01:10:00Z,Edmonton Oilers,Vegas Golden Knights,fanduel,h2h,Vegas Golden Knights,,-118,2026-11-24T14:49:33Z,2026-11-24T0949
+155fbdda10b6474a41649023baadfdf3,2026-11-25T01:10:00Z,Edmonton Oilers,Vegas Golden Knights,fanduel,totals,Over,6.5,102,2026-11-24T14:49:33Z,2026-11-24T0949
+155fbdda10b6474a41649023baadfdf3,2026-11-25T01:10:00Z,Edmonton Oilers,Vegas Golden Knights,fanduel,totals,Under,6.5,-124,2026-11-24T14:49:33Z,2026-11-24T0949
