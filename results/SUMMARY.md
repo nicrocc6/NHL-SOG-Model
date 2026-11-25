@@ -1,6 +1,6 @@
 # Model scorecard
 
-_Updated 2026-11-24 09:49 ET by the nightly job._
+_Updated 2026-11-25 09:54 ET by the nightly job._
 
 ## Paper picks (every FanDuel prop at 5%+ EV at the morning pull)
 
@@ -14,13 +14,13 @@ _Updated 2026-11-24 09:49 ET by the nightly job._
 
 ## Model vs FanDuel on every graded prop
 
-Props graded: 197 (lower log loss = better probabilities)
+Props graded: 202 (lower log loss = better probabilities)
 
 | Forecast | Log loss |
 |---|---|
-| Model | 0.6794 |
-| FanDuel no-vig, morning | 0.6729 |
-| FanDuel no-vig, closing | 0.6731 |
-| 50/50 blend of model + morning line | 0.6754 |
+| Model | 0.6810 |
+| FanDuel no-vig, morning | 0.6749 |
+| FanDuel no-vig, closing | 0.6755 |
+| 50/50 blend of model + morning line | 0.6772 |
 
 If the model's number drops below FanDuel's closing line over a few hundred props, it is beating the market.

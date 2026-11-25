@@ -197,3 +197,8 @@ date,game,playerId,name,line,over,under,proj_sog,model_over,novig_over,close_ove
 2026-11-23,Columbus Blue Jackets @ New Jersey Devils,8481559.0,Jack Hughes,3.5,-110,-118,3.72,0.495,0.492,-108,-120,0.4877,over,-0.055,False,-110,-108,-0.0361,0.0,0.0,0.0,graded,-1.0
 2026-11-23,Utah Mammoth @ Winnipeg Jets,8476460.0,Mark Scheifele,2.5,154,-205,2.19,0.371,0.369,154,-205,0.3694,over,-0.057,False,154,154,-0.0243,0.0,2.0,0.0,graded,-1.0
 2026-11-23,Columbus Blue Jackets @ New Jersey Devils,8482720.0,Matthew Knies,1.5,-113,-115,1.7,0.496,0.498,-114,-114,0.5,under,-0.058,False,-115,-114,-0.0349,0.0,2.0,1.0,graded,-1.0
+2026-11-24,Vegas Golden Knights @ Edmonton Oilers,8484803.0,Trevor Connelly,1.5,-164,125,2.26,0.641,0.583,-164,125,0.5829,over,0.031,False,-164,-164,-0.0383,0.0,5.0,1.0,graded,0.6098
+2026-11-24,Vegas Golden Knights @ Edmonton Oilers,8478403.0,Jack Eichel,2.5,-115,-113,2.82,0.52,0.502,-115,-113,0.502,over,-0.028,False,-115,-115,-0.0328,0.0,4.0,1.0,graded,0.8696
+2026-11-24,Vegas Golden Knights @ Edmonton Oilers,8476881.0,Tomas Hertl,1.5,-188,142,2.21,0.629,0.612,-188,142,0.6124,over,-0.036,False,-188,-188,-0.0404,0.0,1.0,0.0,graded,-1.0
+2026-11-24,Vegas Golden Knights @ Edmonton Oilers,8475913.0,Mark Stone,1.5,-144,110,1.94,0.563,0.553,-154,120,0.5715,over,-0.046,False,-144,-154,-0.0186,1.0,1.0,0.0,graded,-1.0
+2026-11-24,Vegas Golden Knights @ Edmonton Oilers,8478483.0,Mitch Marner,2.5,108,-140,2.5,0.447,0.452,116,-152,0.4342,under,-0.052,False,-140,-152,-0.0176,1.0,4.0,1.0,graded,-1.0
