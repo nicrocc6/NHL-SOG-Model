@@ -1,0 +1,137 @@
+event_id,commence_time,game,book,market,player,side,line,price,book_update,pulled_at
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Charlie McAvoy,over,1.5,-118,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Charlie McAvoy,under,1.5,-110,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Josh Morrissey,over,1.5,-146,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Josh Morrissey,under,1.5,112,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Cole Perfetti,over,2.5,130,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Cole Perfetti,under,2.5,-170,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Mark Scheifele,over,2.5,154,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Mark Scheifele,under,2.5,-205,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,JJ Peterka,over,1.5,-174,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,JJ Peterka,under,1.5,132,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Morgan Geekie,over,1.5,-198,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Morgan Geekie,under,1.5,150,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Kyle Connor,over,3.5,-114,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Kyle Connor,under,3.5,-114,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Elias Lindholm,over,1.5,-174,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Elias Lindholm,under,1.5,132,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Gabriel Vilardi,over,1.5,-178,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Gabriel Vilardi,under,1.5,136,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,David Pastrnak,over,3.5,-118,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,David Pastrnak,under,3.5,-110,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Pavel Zacha,over,1.5,-146,2026-11-25T23:39:30Z,2026-11-25T1839
+71f3e5885a8f467260baa9aa31c62332,2026-11-26T00:00:00Z,Winnipeg Jets @ Boston Bruins,fanduel,player_shots_on_goal,Pavel Zacha,under,1.5,112,2026-11-25T23:39:30Z,2026-11-25T1839
+a96a74be66899182f7eea8d72ec0e0fb,2026-11-26T00:00:00Z,New York Rangers @ Buffalo Sabres,fanduel,player_shots_on_goal,Zach Benson,over,2.5,126,2026-11-25T23:39:31Z,2026-11-25T1839
+a96a74be66899182f7eea8d72ec0e0fb,2026-11-26T00:00:00Z,New York Rangers @ Buffalo Sabres,fanduel,player_shots_on_goal,Zach Benson,under,2.5,-165,2026-11-25T23:39:31Z,2026-11-25T1839
+a96a74be66899182f7eea8d72ec0e0fb,2026-11-26T00:00:00Z,New York Rangers @ Buffalo Sabres,fanduel,player_shots_on_goal,Rasmus Dahlin,over,2.5,-106,2026-11-25T23:39:31Z,2026-11-25T1839
+a96a74be66899182f7eea8d72ec0e0fb,2026-11-26T00:00:00Z,New York Rangers @ Buffalo Sabres,fanduel,player_shots_on_goal,Rasmus Dahlin,under,2.5,-122,2026-11-25T23:39:31Z,2026-11-25T1839
+a96a74be66899182f7eea8d72ec0e0fb,2026-11-26T00:00:00Z,New York Rangers @ Buffalo Sabres,fanduel,player_shots_on_goal,Jack Quinn,over,2.5,-104,2026-11-25T23:39:31Z,2026-11-25T1839
+a96a74be66899182f7eea8d72ec0e0fb,2026-11-26T00:00:00Z,New York Rangers @ Buffalo Sabres,fanduel,player_shots_on_goal,Jack Quinn,under,2.5,-125,2026-11-25T23:39:31Z,2026-11-25T1839
+a96a74be66899182f7eea8d72ec0e0fb,2026-11-26T00:00:00Z,New York Rangers @ Buffalo Sabres,fanduel,player_shots_on_goal,Alexis Lafrenière,over,2.5,130,2026-11-25T23:39:31Z,2026-11-25T1839
+a96a74be66899182f7eea8d72ec0e0fb,2026-11-26T00:00:00Z,New York Rangers @ Buffalo Sabres,fanduel,player_shots_on_goal,Alexis Lafrenière,under,2.5,-170,2026-11-25T23:39:31Z,2026-11-25T1839
+a96a74be66899182f7eea8d72ec0e0fb,2026-11-26T00:00:00Z,New York Rangers @ Buffalo Sabres,fanduel,player_shots_on_goal,Mika Zibanejad,over,2.5,138,2026-11-25T23:39:31Z,2026-11-25T1839
+a96a74be66899182f7eea8d72ec0e0fb,2026-11-26T00:00:00Z,New York Rangers @ Buffalo Sabres,fanduel,player_shots_on_goal,Mika Zibanejad,under,2.5,-182,2026-11-25T23:39:31Z,2026-11-25T1839
+a96a74be66899182f7eea8d72ec0e0fb,2026-11-26T00:00:00Z,New York Rangers @ Buffalo Sabres,fanduel,player_shots_on_goal,Tage Thompson,over,3.5,100,2026-11-25T23:39:31Z,2026-11-25T1839
+a96a74be66899182f7eea8d72ec0e0fb,2026-11-26T00:00:00Z,New York Rangers @ Buffalo Sabres,fanduel,player_shots_on_goal,Tage Thompson,under,3.5,-130,2026-11-25T23:39:31Z,2026-11-25T1839
+52d88f1e2ea2e8165d992430998b84f1,2026-11-26T00:00:00Z,Calgary Flames @ Pittsburgh Penguins,fanduel,player_shots_on_goal,Ben Kindel,over,2.5,146,2026-11-25T23:38:10Z,2026-11-25T1839
+52d88f1e2ea2e8165d992430998b84f1,2026-11-26T00:00:00Z,Calgary Flames @ Pittsburgh Penguins,fanduel,player_shots_on_goal,Ben Kindel,under,2.5,-192,2026-11-25T23:38:10Z,2026-11-25T1839
+52d88f1e2ea2e8165d992430998b84f1,2026-11-26T00:00:00Z,Calgary Flames @ Pittsburgh Penguins,fanduel,player_shots_on_goal,Rickard Rakell,over,2.5,-164,2026-11-25T23:38:10Z,2026-11-25T1839
+52d88f1e2ea2e8165d992430998b84f1,2026-11-26T00:00:00Z,Calgary Flames @ Pittsburgh Penguins,fanduel,player_shots_on_goal,Rickard Rakell,under,2.5,125,2026-11-25T23:38:10Z,2026-11-25T1839
+52d88f1e2ea2e8165d992430998b84f1,2026-11-26T00:00:00Z,Calgary Flames @ Pittsburgh Penguins,fanduel,player_shots_on_goal,Erik Karlsson,over,2.5,100,2026-11-25T23:38:10Z,2026-11-25T1839
+52d88f1e2ea2e8165d992430998b84f1,2026-11-26T00:00:00Z,Calgary Flames @ Pittsburgh Penguins,fanduel,player_shots_on_goal,Erik Karlsson,under,2.5,-130,2026-11-25T23:38:10Z,2026-11-25T1839
+52d88f1e2ea2e8165d992430998b84f1,2026-11-26T00:00:00Z,Calgary Flames @ Pittsburgh Penguins,fanduel,player_shots_on_goal,Sidney Crosby,over,2.5,102,2026-11-25T23:38:10Z,2026-11-25T1839
+52d88f1e2ea2e8165d992430998b84f1,2026-11-26T00:00:00Z,Calgary Flames @ Pittsburgh Penguins,fanduel,player_shots_on_goal,Sidney Crosby,under,2.5,-132,2026-11-25T23:38:10Z,2026-11-25T1839
+52d88f1e2ea2e8165d992430998b84f1,2026-11-26T00:00:00Z,Calgary Flames @ Pittsburgh Penguins,fanduel,player_shots_on_goal,Tommy Novak,over,1.5,-178,2026-11-25T23:38:10Z,2026-11-25T1839
+52d88f1e2ea2e8165d992430998b84f1,2026-11-26T00:00:00Z,Calgary Flames @ Pittsburgh Penguins,fanduel,player_shots_on_goal,Tommy Novak,under,1.5,136,2026-11-25T23:38:10Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Logan Stankoven,over,2.5,132,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Logan Stankoven,under,2.5,-174,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Shayne Gostisbehere,over,1.5,-102,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Shayne Gostisbehere,under,1.5,-128,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Brayden Point,over,1.5,-140,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Brayden Point,under,1.5,108,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Jake Guentzel,over,2.5,114,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Jake Guentzel,under,2.5,-148,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,John Carlson,over,1.5,-130,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,John Carlson,under,1.5,100,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Jackson Blake,over,2.5,122,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Jackson Blake,under,2.5,-160,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Sebastian Aho,over,2.5,116,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Sebastian Aho,under,2.5,-152,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Andrei Svechnikov,over,2.5,-110,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Andrei Svechnikov,under,2.5,-118,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Seth Jarvis,over,2.5,150,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Seth Jarvis,under,2.5,-198,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Nikita Kucherov,over,2.5,-146,2026-11-25T23:39:30Z,2026-11-25T1839
+b8dd63eeebfa6db1cdb18fb101d4a323,2026-11-26T00:00:00Z,Carolina Hurricanes @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Nikita Kucherov,under,2.5,112,2026-11-25T23:39:30Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Arseny Gritsyuk,over,1.5,-176,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Arseny Gritsyuk,under,1.5,134,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Dougie Hamilton,over,2.5,116,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Dougie Hamilton,under,2.5,-152,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Charlie Coyle,over,1.5,-164,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Charlie Coyle,under,1.5,125,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Timo Meier,over,2.5,-170,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Timo Meier,under,2.5,130,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Nico Hischier,over,2.5,154,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Nico Hischier,under,2.5,-205,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Jack Hughes,over,3.5,100,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Jack Hughes,under,3.5,-130,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Valeri Nichushkin,over,1.5,-113,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Valeri Nichushkin,under,1.5,-115,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Adam Fantilli,over,2.5,-113,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Adam Fantilli,under,2.5,-115,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Kent Johnson,over,2.5,138,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Kent Johnson,under,2.5,-182,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Zach Werenski,over,3.5,126,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Zach Werenski,under,3.5,-165,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Luke Hughes,over,1.5,-196,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Luke Hughes,under,1.5,148,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Jesper Bratt,over,1.5,-168,2026-11-25T23:38:33Z,2026-11-25T1839
+b06dda80256fb0e1b5efc78c0fca6d97,2026-11-26T00:00:00Z,New Jersey Devils @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Jesper Bratt,under,1.5,128,2026-11-25T23:38:33Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Seth Jones,over,1.5,-120,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Seth Jones,under,1.5,-108,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Sam Reinhart,over,2.5,126,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Sam Reinhart,under,2.5,-165,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Anton Lundell,over,1.5,-140,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Anton Lundell,under,1.5,108,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Jake Sanderson,over,1.5,-160,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Jake Sanderson,under,1.5,122,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Shane Pinto,over,1.5,-160,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Shane Pinto,under,1.5,122,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Carter Verhaeghe,over,2.5,130,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Carter Verhaeghe,under,2.5,-170,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Sam Bennett,over,1.5,-182,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Sam Bennett,under,1.5,138,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Drake Batherson,over,1.5,-168,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Drake Batherson,under,1.5,128,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Tim Stützle,over,1.5,-176,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Tim Stützle,under,1.5,134,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Brady Tkachuk,over,2.5,-178,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Brady Tkachuk,under,2.5,136,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Matthew Tkachuk,over,2.5,102,2026-11-25T23:39:30Z,2026-11-25T1839
+03b050660209b2ef14e1e40ef22a585e,2026-11-26T00:00:00Z,Ottawa Senators @ Florida Panthers,fanduel,player_shots_on_goal,Matthew Tkachuk,under,2.5,-132,2026-11-25T23:39:30Z,2026-11-25T1839
+70e9e98dccc07e86adad8349ad0c07fa,2026-11-26T00:00:00Z,St Louis Blues @ New York Islanders,fanduel,player_shots_on_goal,Matthew Schaefer,over,3.5,125,2026-11-25T23:39:31Z,2026-11-25T1839
+70e9e98dccc07e86adad8349ad0c07fa,2026-11-26T00:00:00Z,St Louis Blues @ New York Islanders,fanduel,player_shots_on_goal,Matthew Schaefer,under,3.5,-164,2026-11-25T23:39:31Z,2026-11-25T1839
+70e9e98dccc07e86adad8349ad0c07fa,2026-11-26T00:00:00Z,St Louis Blues @ New York Islanders,fanduel,player_shots_on_goal,Bo Horvat,over,2.5,-135,2026-11-25T23:39:31Z,2026-11-25T1839
+70e9e98dccc07e86adad8349ad0c07fa,2026-11-26T00:00:00Z,St Louis Blues @ New York Islanders,fanduel,player_shots_on_goal,Bo Horvat,under,2.5,104,2026-11-25T23:39:31Z,2026-11-25T1839
+70e9e98dccc07e86adad8349ad0c07fa,2026-11-26T00:00:00Z,St Louis Blues @ New York Islanders,fanduel,player_shots_on_goal,Mathew Barzal,over,2.5,122,2026-11-25T23:39:31Z,2026-11-25T1839
+70e9e98dccc07e86adad8349ad0c07fa,2026-11-26T00:00:00Z,St Louis Blues @ New York Islanders,fanduel,player_shots_on_goal,Mathew Barzal,under,2.5,-160,2026-11-25T23:39:31Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Tom Wilson,over,1.5,-140,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Tom Wilson,under,1.5,108,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Ryan Leonard,over,2.5,126,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Ryan Leonard,under,2.5,-165,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Aliaksei Protas,over,1.5,-138,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Aliaksei Protas,under,1.5,106,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Pierre-Luc Dubois,over,1.5,-120,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Pierre-Luc Dubois,under,1.5,-108,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Alex Tuch,over,2.5,120,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Alex Tuch,under,2.5,-154,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Owen Tippett,over,2.5,146,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Owen Tippett,under,2.5,-192,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Travis Konecny,over,1.5,-140,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Travis Konecny,under,1.5,108,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Matvei Michkov,over,1.5,-130,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Matvei Michkov,under,1.5,100,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Jakob Chychrun,over,2.5,-104,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Jakob Chychrun,under,2.5,-125,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Dylan Strome,over,1.5,-128,2026-11-25T23:39:30Z,2026-11-25T1839
+c29af8a41ac40846cff6811e8a345682,2026-11-26T00:00:00Z,Philadelphia Flyers @ Washington Capitals,fanduel,player_shots_on_goal,Dylan Strome,under,1.5,-102,2026-11-25T23:39:30Z,2026-11-25T1839
