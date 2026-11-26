@@ -1,0 +1,75 @@
+event_id,commence_time,game,book,market,player,side,line,price,book_update,pulled_at
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Jonathan Lekkerimäki,over,1.5,-114,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Jonathan Lekkerimäki,under,1.5,-114,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Marco Rossi,over,1.5,106,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Marco Rossi,under,1.5,-138,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Jake DeBrusk,over,2.5,125,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Jake DeBrusk,under,2.5,-164,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Lucas Raymond,over,2.5,-104,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Lucas Raymond,under,2.5,-125,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Filip Chytil,over,1.5,-196,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Filip Chytil,under,1.5,148,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Brock Boeser,over,1.5,-156,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Brock Boeser,under,1.5,120,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Emmitt Finnie,over,1.5,-165,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Emmitt Finnie,under,1.5,126,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Marco Kasper,over,1.5,-174,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Marco Kasper,under,1.5,132,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Alex DeBrincat,over,3.5,-114,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Alex DeBrincat,under,3.5,-114,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Viktor Arvidsson,over,2.5,-144,2026-11-26T00:39:53Z,2026-11-25T1940
+54f5b5907980a875945c22ecce9a7537,2026-11-26T00:44:00Z,Vancouver Canucks @ Detroit Red Wings,fanduel,player_shots_on_goal,Viktor Arvidsson,under,2.5,110,2026-11-26T00:39:53Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Tyler Seguin,over,1.5,-110,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Tyler Seguin,under,1.5,-118,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Ryan O'Reilly,over,1.5,100,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Ryan O'Reilly,under,1.5,-130,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Mikko Rantanen,over,2.5,146,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Mikko Rantanen,under,2.5,-192,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Miro Heiskanen,over,1.5,-160,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Miro Heiskanen,under,1.5,122,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Filip Forsberg,over,2.5,-120,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Filip Forsberg,under,2.5,-108,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Arttu Hyry,over,1.5,-113,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Arttu Hyry,under,1.5,-115,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Jonathan Marchessault,over,1.5,-148,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Jonathan Marchessault,under,1.5,114,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Thomas Harley,over,1.5,-160,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Thomas Harley,under,1.5,122,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Jason Robertson,over,3.5,114,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Jason Robertson,under,3.5,-148,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Roope Hintz,over,2.5,146,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Roope Hintz,under,2.5,-192,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Mavrik Bourque,over,1.5,108,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Mavrik Bourque,under,1.5,-140,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Steven Stamkos,over,2.5,148,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Steven Stamkos,under,2.5,-196,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Roman Josi,over,2.5,144,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Roman Josi,under,2.5,-190,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Wyatt Johnston,over,2.5,-118,2026-11-26T00:39:47Z,2026-11-25T1940
+73d5e978fab618f46090f2dc47721bda,2026-11-26T01:00:00Z,Nashville Predators @ Dallas Stars,fanduel,player_shots_on_goal,Wyatt Johnston,under,2.5,-110,2026-11-26T00:39:47Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Mikhail Sergachev,over,1.5,-188,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Mikhail Sergachev,under,1.5,142,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Matt Boldy,over,3.5,-102,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Matt Boldy,under,3.5,-128,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Vincent Trocheck,over,1.5,-168,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Vincent Trocheck,under,1.5,128,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Dylan Guenther,over,2.5,-122,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Dylan Guenther,under,2.5,-106,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Joel Eriksson Ek,over,2.5,-114,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Joel Eriksson Ek,under,2.5,-114,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Kirill Kaprizov,over,3.5,134,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Kirill Kaprizov,under,3.5,-176,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Brock Faber,over,1.5,-165,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Brock Faber,under,1.5,126,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Clayton Keller,over,2.5,-102,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Clayton Keller,under,2.5,-128,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Logan Cooley,over,1.5,-165,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Logan Cooley,under,1.5,126,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,MacKenzie Weegar,over,1.5,-108,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,MacKenzie Weegar,under,1.5,-120,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Lawson Crouse,over,1.5,104,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Lawson Crouse,under,1.5,-135,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Blake Coleman,over,1.5,-168,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Blake Coleman,under,1.5,128,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Anders Lee,over,1.5,-132,2026-11-26T00:39:46Z,2026-11-25T1940
+696cf3d8787917f769a8d9a18560e2f0,2026-11-26T01:10:00Z,Utah Mammoth @ Minnesota Wild,fanduel,player_shots_on_goal,Anders Lee,under,1.5,102,2026-11-26T00:39:46Z,2026-11-25T1940
