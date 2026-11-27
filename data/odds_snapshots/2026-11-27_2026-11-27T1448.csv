@@ -1,0 +1,75 @@
+event_id,commence_time,game,book,market,player,side,line,price,book_update,pulled_at
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Zach Werenski,over,3.5,114,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Zach Werenski,under,3.5,-148,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Charlie Coyle,over,1.5,-174,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Charlie Coyle,under,1.5,132,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Adam Fantilli,over,2.5,-128,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Adam Fantilli,under,2.5,-102,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Kent Johnson,over,2.5,144,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Kent Johnson,under,2.5,-190,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Viktor Arvidsson,over,2.5,100,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Viktor Arvidsson,under,2.5,-130,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Lucas Raymond,over,2.5,132,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Lucas Raymond,under,2.5,-174,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Michael Brandsegg-Nygard,over,1.5,-106,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Michael Brandsegg-Nygard,under,1.5,-122,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Emmitt Finnie,over,1.5,-115,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Emmitt Finnie,under,1.5,-113,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Moritz Seider,over,1.5,-138,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Moritz Seider,under,1.5,106,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Alex DeBrincat,over,3.5,125,2026-11-27T19:47:13Z,2026-11-27T1448
+f4f067c12199285d9589564210a2a7d5,2026-11-27T20:00:00Z,Detroit Red Wings @ Columbus Blue Jackets,fanduel,player_shots_on_goal,Alex DeBrincat,under,3.5,-164,2026-11-27T19:47:13Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Tom Wilson,over,1.5,-125,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Tom Wilson,under,1.5,-104,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Pierre-Luc Dubois,over,1.5,-128,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Pierre-Luc Dubois,under,1.5,-102,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Ryan Leonard,over,2.5,122,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Ryan Leonard,under,2.5,-160,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Carter Verhaeghe,over,2.5,136,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Carter Verhaeghe,under,2.5,-178,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Alex Tuch,over,2.5,136,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Alex Tuch,under,2.5,-178,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Jakob Chychrun,over,2.5,120,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Jakob Chychrun,under,2.5,-156,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Sam Bennett,over,1.5,-188,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Sam Bennett,under,1.5,140,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Matthew Tkachuk,over,2.5,110,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Matthew Tkachuk,under,2.5,-144,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Seth Jones,over,1.5,-135,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Seth Jones,under,1.5,104,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Brady Tkachuk,over,2.5,-184,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Brady Tkachuk,under,2.5,140,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Dylan Strome,over,1.5,-114,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Dylan Strome,under,1.5,-114,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Sam Reinhart,over,2.5,118,2026-11-27T19:47:52Z,2026-11-27T1448
+f59fbb4eb34e72efeecfce2b7adc2198,2026-11-27T20:00:00Z,Florida Panthers @ Washington Capitals,fanduel,player_shots_on_goal,Sam Reinhart,under,2.5,-154,2026-11-27T19:47:52Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Dylan Cozens,over,1.5,-176,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Dylan Cozens,under,1.5,134,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Jake Sanderson,over,1.5,-144,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Jake Sanderson,under,1.5,110,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Nikita Kucherov,over,2.5,-138,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Nikita Kucherov,under,2.5,104,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Drake Batherson,over,1.5,-148,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Drake Batherson,under,1.5,114,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,John Carlson,over,1.5,-188,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,John Carlson,under,1.5,142,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Brayden Point,over,1.5,-168,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Brayden Point,under,1.5,128,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Jake Guentzel,over,2.5,116,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Jake Guentzel,under,2.5,-152,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Brandon Hagel,over,2.5,-130,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Brandon Hagel,under,2.5,100,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Shane Pinto,over,1.5,-170,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Shane Pinto,under,1.5,130,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Fabian Zetterlund,over,1.5,-118,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Fabian Zetterlund,under,1.5,-110,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Tim Stützle,over,2.5,146,2026-11-27T19:47:11Z,2026-11-27T1448
+e455a88aa787a29717a862a536046895,2026-11-27T20:00:00Z,Ottawa Senators @ Tampa Bay Lightning,fanduel,player_shots_on_goal,Tim Stützle,under,2.5,-192,2026-11-27T19:47:11Z,2026-11-27T1448
+a76ba8f9808ac21b09342afdd5df0b32,2026-11-27T20:00:00Z,Vancouver Canucks @ Philadelphia Flyers,fanduel,player_shots_on_goal,Brock Boeser,over,1.5,-144,2026-11-27T19:47:49Z,2026-11-27T1448
+a76ba8f9808ac21b09342afdd5df0b32,2026-11-27T20:00:00Z,Vancouver Canucks @ Philadelphia Flyers,fanduel,player_shots_on_goal,Brock Boeser,under,1.5,110,2026-11-27T19:47:49Z,2026-11-27T1448
+a76ba8f9808ac21b09342afdd5df0b32,2026-11-27T20:00:00Z,Vancouver Canucks @ Philadelphia Flyers,fanduel,player_shots_on_goal,Jake DeBrusk,over,2.5,136,2026-11-27T19:47:49Z,2026-11-27T1448
+a76ba8f9808ac21b09342afdd5df0b32,2026-11-27T20:00:00Z,Vancouver Canucks @ Philadelphia Flyers,fanduel,player_shots_on_goal,Jake DeBrusk,under,2.5,-178,2026-11-27T19:47:49Z,2026-11-27T1448
+a76ba8f9808ac21b09342afdd5df0b32,2026-11-27T20:00:00Z,Vancouver Canucks @ Philadelphia Flyers,fanduel,player_shots_on_goal,Filip Chytil,over,1.5,-176,2026-11-27T19:47:49Z,2026-11-27T1448
+a76ba8f9808ac21b09342afdd5df0b32,2026-11-27T20:00:00Z,Vancouver Canucks @ Philadelphia Flyers,fanduel,player_shots_on_goal,Filip Chytil,under,1.5,134,2026-11-27T19:47:49Z,2026-11-27T1448
+a76ba8f9808ac21b09342afdd5df0b32,2026-11-27T20:00:00Z,Vancouver Canucks @ Philadelphia Flyers,fanduel,player_shots_on_goal,Filip Hronek,over,1.5,122,2026-11-27T19:47:49Z,2026-11-27T1448
+a76ba8f9808ac21b09342afdd5df0b32,2026-11-27T20:00:00Z,Vancouver Canucks @ Philadelphia Flyers,fanduel,player_shots_on_goal,Filip Hronek,under,1.5,-160,2026-11-27T19:47:49Z,2026-11-27T1448
