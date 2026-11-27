@@ -1,0 +1,17 @@
+event_id,commence_time,game,book,market,player,side,line,price,book_update,pulled_at
+f23fc3f7fb3bfb06c2bee42fcfe8f050,2026-11-27T19:00:00Z,Dallas Stars @ St Louis Blues,fanduel,player_shots_on_goal,Thomas Harley,over,1.5,-144,2026-11-27T18:40:57Z,2026-11-27T1341
+f23fc3f7fb3bfb06c2bee42fcfe8f050,2026-11-27T19:00:00Z,Dallas Stars @ St Louis Blues,fanduel,player_shots_on_goal,Thomas Harley,under,1.5,110,2026-11-27T18:40:57Z,2026-11-27T1341
+f23fc3f7fb3bfb06c2bee42fcfe8f050,2026-11-27T19:00:00Z,Dallas Stars @ St Louis Blues,fanduel,player_shots_on_goal,Wyatt Johnston,over,2.5,-102,2026-11-27T18:40:57Z,2026-11-27T1341
+f23fc3f7fb3bfb06c2bee42fcfe8f050,2026-11-27T19:00:00Z,Dallas Stars @ St Louis Blues,fanduel,player_shots_on_goal,Wyatt Johnston,under,2.5,-125,2026-11-27T18:40:57Z,2026-11-27T1341
+f23fc3f7fb3bfb06c2bee42fcfe8f050,2026-11-27T19:00:00Z,Dallas Stars @ St Louis Blues,fanduel,player_shots_on_goal,Jason Robertson,over,3.5,136,2026-11-27T18:40:57Z,2026-11-27T1341
+f23fc3f7fb3bfb06c2bee42fcfe8f050,2026-11-27T19:00:00Z,Dallas Stars @ St Louis Blues,fanduel,player_shots_on_goal,Jason Robertson,under,3.5,-178,2026-11-27T18:40:57Z,2026-11-27T1341
+f23fc3f7fb3bfb06c2bee42fcfe8f050,2026-11-27T19:00:00Z,Dallas Stars @ St Louis Blues,fanduel,player_shots_on_goal,Mikko Rantanen,over,1.5,-178,2026-11-27T18:40:57Z,2026-11-27T1341
+f23fc3f7fb3bfb06c2bee42fcfe8f050,2026-11-27T19:00:00Z,Dallas Stars @ St Louis Blues,fanduel,player_shots_on_goal,Mikko Rantanen,under,1.5,136,2026-11-27T18:40:57Z,2026-11-27T1341
+f23fc3f7fb3bfb06c2bee42fcfe8f050,2026-11-27T19:00:00Z,Dallas Stars @ St Louis Blues,fanduel,player_shots_on_goal,Miro Heiskanen,over,1.5,-152,2026-11-27T18:40:57Z,2026-11-27T1341
+f23fc3f7fb3bfb06c2bee42fcfe8f050,2026-11-27T19:00:00Z,Dallas Stars @ St Louis Blues,fanduel,player_shots_on_goal,Miro Heiskanen,under,1.5,116,2026-11-27T18:40:57Z,2026-11-27T1341
+f23fc3f7fb3bfb06c2bee42fcfe8f050,2026-11-27T19:00:00Z,Dallas Stars @ St Louis Blues,fanduel,player_shots_on_goal,Roope Hintz,over,1.5,-174,2026-11-27T18:40:57Z,2026-11-27T1341
+f23fc3f7fb3bfb06c2bee42fcfe8f050,2026-11-27T19:00:00Z,Dallas Stars @ St Louis Blues,fanduel,player_shots_on_goal,Roope Hintz,under,1.5,132,2026-11-27T18:40:57Z,2026-11-27T1341
+f23fc3f7fb3bfb06c2bee42fcfe8f050,2026-11-27T19:00:00Z,Dallas Stars @ St Louis Blues,fanduel,player_shots_on_goal,Dylan Holloway,over,2.5,104,2026-11-27T18:40:57Z,2026-11-27T1341
+f23fc3f7fb3bfb06c2bee42fcfe8f050,2026-11-27T19:00:00Z,Dallas Stars @ St Louis Blues,fanduel,player_shots_on_goal,Dylan Holloway,under,2.5,-135,2026-11-27T18:40:57Z,2026-11-27T1341
+f23fc3f7fb3bfb06c2bee42fcfe8f050,2026-11-27T19:00:00Z,Dallas Stars @ St Louis Blues,fanduel,player_shots_on_goal,Mason McTavish,over,2.5,148,2026-11-27T18:40:57Z,2026-11-27T1341
+f23fc3f7fb3bfb06c2bee42fcfe8f050,2026-11-27T19:00:00Z,Dallas Stars @ St Louis Blues,fanduel,player_shots_on_goal,Mason McTavish,under,2.5,-196,2026-11-27T18:40:57Z,2026-11-27T1341
