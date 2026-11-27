@@ -1,0 +1,57 @@
+event_id,commence_time,game,book,market,player,side,line,price,book_update,pulled_at
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,Charlie McAvoy,over,1.5,-120,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,Charlie McAvoy,under,1.5,-108,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,JJ Peterka,over,1.5,-170,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,JJ Peterka,under,1.5,130,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,Elias Lindholm,over,1.5,-188,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,Elias Lindholm,under,1.5,142,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,Pavel Zacha,over,1.5,-165,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,Pavel Zacha,under,1.5,126,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,John Tavares,over,2.5,130,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,John Tavares,under,2.5,-170,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,Kirill Marchenko,over,2.5,120,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,Kirill Marchenko,under,2.5,-156,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,Auston Matthews,over,3.5,102,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,Auston Matthews,under,3.5,-132,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,Gavin McKenna,over,1.5,-110,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,Gavin McKenna,under,1.5,-118,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,Darren Raddysh,over,2.5,108,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,Darren Raddysh,under,2.5,-140,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,David Pastrnak,over,3.5,-138,2026-11-27T17:44:44Z,2026-11-27T1245
+27cb678af08c1929cf19d9350d9f511e,2026-11-27T18:00:00Z,Toronto Maple Leafs @ Boston Bruins,fanduel,player_shots_on_goal,David Pastrnak,under,3.5,106,2026-11-27T17:44:44Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Jack Hughes,over,3.5,-122,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Jack Hughes,under,3.5,-106,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Timo Meier,over,3.5,122,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Timo Meier,under,3.5,-160,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Jesper Bratt,over,1.5,-196,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Jesper Bratt,under,1.5,148,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Luke Hughes,over,2.5,146,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Luke Hughes,under,2.5,-192,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Arseny Gritsyuk,over,2.5,144,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Arseny Gritsyuk,under,2.5,-190,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Joel Farabee,over,1.5,-188,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Joel Farabee,under,1.5,142,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Matt Coronato,over,2.5,142,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Matt Coronato,under,2.5,-188,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Mikael Backlund,over,1.5,-176,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Mikael Backlund,under,1.5,134,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Matvei Gridin,over,1.5,-120,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Matvei Gridin,under,1.5,-108,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Nico Hischier,over,2.5,130,2026-11-27T17:44:01Z,2026-11-27T1245
+978dfc077c2cba5159882a1f65088b8d,2026-11-27T18:00:00Z,Calgary Flames @ New Jersey Devils,fanduel,player_shots_on_goal,Nico Hischier,under,2.5,-170,2026-11-27T17:44:01Z,2026-11-27T1245
+b5234ea5788fb4f5393efc6c33c8e5e7,2026-11-27T18:00:00Z,Utah Mammoth @ Nashville Predators,fanduel,player_shots_on_goal,Filip Forsberg,over,2.5,-156,2026-11-27T17:43:59Z,2026-11-27T1245
+b5234ea5788fb4f5393efc6c33c8e5e7,2026-11-27T18:00:00Z,Utah Mammoth @ Nashville Predators,fanduel,player_shots_on_goal,Filip Forsberg,under,2.5,120,2026-11-27T17:43:59Z,2026-11-27T1245
+b5234ea5788fb4f5393efc6c33c8e5e7,2026-11-27T18:00:00Z,Utah Mammoth @ Nashville Predators,fanduel,player_shots_on_goal,Steven Stamkos,over,2.5,125,2026-11-27T17:43:59Z,2026-11-27T1245
+b5234ea5788fb4f5393efc6c33c8e5e7,2026-11-27T18:00:00Z,Utah Mammoth @ Nashville Predators,fanduel,player_shots_on_goal,Steven Stamkos,under,2.5,-164,2026-11-27T17:43:59Z,2026-11-27T1245
+b5234ea5788fb4f5393efc6c33c8e5e7,2026-11-27T18:00:00Z,Utah Mammoth @ Nashville Predators,fanduel,player_shots_on_goal,Logan Cooley,over,1.5,-188,2026-11-27T17:43:59Z,2026-11-27T1245
+b5234ea5788fb4f5393efc6c33c8e5e7,2026-11-27T18:00:00Z,Utah Mammoth @ Nashville Predators,fanduel,player_shots_on_goal,Logan Cooley,under,1.5,142,2026-11-27T17:43:59Z,2026-11-27T1245
+b5234ea5788fb4f5393efc6c33c8e5e7,2026-11-27T18:00:00Z,Utah Mammoth @ Nashville Predators,fanduel,player_shots_on_goal,Mikhail Sergachev,over,2.5,132,2026-11-27T17:43:59Z,2026-11-27T1245
+b5234ea5788fb4f5393efc6c33c8e5e7,2026-11-27T18:00:00Z,Utah Mammoth @ Nashville Predators,fanduel,player_shots_on_goal,Mikhail Sergachev,under,2.5,-174,2026-11-27T17:43:59Z,2026-11-27T1245
+b5234ea5788fb4f5393efc6c33c8e5e7,2026-11-27T18:00:00Z,Utah Mammoth @ Nashville Predators,fanduel,player_shots_on_goal,Vincent Trocheck,over,1.5,-188,2026-11-27T17:43:59Z,2026-11-27T1245
+b5234ea5788fb4f5393efc6c33c8e5e7,2026-11-27T18:00:00Z,Utah Mammoth @ Nashville Predators,fanduel,player_shots_on_goal,Vincent Trocheck,under,1.5,142,2026-11-27T17:43:59Z,2026-11-27T1245
+b5234ea5788fb4f5393efc6c33c8e5e7,2026-11-27T18:00:00Z,Utah Mammoth @ Nashville Predators,fanduel,player_shots_on_goal,Dylan Guenther,over,2.5,-130,2026-11-27T17:43:59Z,2026-11-27T1245
+b5234ea5788fb4f5393efc6c33c8e5e7,2026-11-27T18:00:00Z,Utah Mammoth @ Nashville Predators,fanduel,player_shots_on_goal,Dylan Guenther,under,2.5,100,2026-11-27T17:43:59Z,2026-11-27T1245
+b5234ea5788fb4f5393efc6c33c8e5e7,2026-11-27T18:00:00Z,Utah Mammoth @ Nashville Predators,fanduel,player_shots_on_goal,Roman Josi,over,2.5,-104,2026-11-27T17:43:59Z,2026-11-27T1245
+b5234ea5788fb4f5393efc6c33c8e5e7,2026-11-27T18:00:00Z,Utah Mammoth @ Nashville Predators,fanduel,player_shots_on_goal,Roman Josi,under,2.5,-125,2026-11-27T17:43:59Z,2026-11-27T1245
+b5234ea5788fb4f5393efc6c33c8e5e7,2026-11-27T18:00:00Z,Utah Mammoth @ Nashville Predators,fanduel,player_shots_on_goal,Clayton Keller,over,2.5,-114,2026-11-27T17:43:59Z,2026-11-27T1245
+b5234ea5788fb4f5393efc6c33c8e5e7,2026-11-27T18:00:00Z,Utah Mammoth @ Nashville Predators,fanduel,player_shots_on_goal,Clayton Keller,under,2.5,-114,2026-11-27T17:43:59Z,2026-11-27T1245
