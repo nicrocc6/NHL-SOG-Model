@@ -1,0 +1,59 @@
+event_id,commence_time,game,book,market,player,side,line,price,book_update,pulled_at
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Jackson LaCombe,over,1.5,112,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Jackson LaCombe,under,1.5,-146,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Beckett Sennecke,over,2.5,104,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Beckett Sennecke,under,2.5,-135,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Cutter Gauthier,over,3.5,-146,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Cutter Gauthier,under,3.5,112,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Mikael Granlund,over,2.5,142,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Mikael Granlund,under,2.5,-188,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Troy Terry,over,1.5,-144,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Troy Terry,under,1.5,110,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Quinton Byfield,over,1.5,-198,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Quinton Byfield,under,1.5,150,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Alex Laferriere,over,2.5,-110,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Alex Laferriere,under,2.5,-118,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Artemi Panarin,over,2.5,-120,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Artemi Panarin,under,2.5,-108,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Adrian Kempe,over,2.5,-106,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Adrian Kempe,under,2.5,-122,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Brandt Clarke,over,1.5,-114,2026-11-27T20:42:35Z,2026-11-27T1543
+634c54722c6860c9773604c369f6e062,2026-11-27T21:00:00Z,Los Angeles Kings @ Anaheim Ducks,fanduel,player_shots_on_goal,Brandt Clarke,under,1.5,-114,2026-11-27T20:42:35Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Blake Coleman,over,1.5,-182,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Blake Coleman,under,1.5,138,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Matt Boldy,over,3.5,-106,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Matt Boldy,under,3.5,-120,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Joel Eriksson Ek,over,2.5,-130,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Joel Eriksson Ek,under,2.5,100,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Brock Faber,over,1.5,-160,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Brock Faber,under,1.5,122,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Kirill Kaprizov,over,3.5,122,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Kirill Kaprizov,under,3.5,-160,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Artturi Lehkonen,over,1.5,-168,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Artturi Lehkonen,under,1.5,128,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Brock Nelson,over,1.5,-128,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Brock Nelson,under,1.5,-102,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Martin Necas,over,1.5,-205,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Martin Necas,under,1.5,154,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Cale Makar,over,2.5,104,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Cale Makar,under,2.5,-135,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Nazem Kadri,over,2.5,120,2026-11-27T20:43:15Z,2026-11-27T1543
+d86dc755fe06568141403800fce290fb,2026-11-27T21:00:00Z,Colorado Avalanche @ Minnesota Wild,fanduel,player_shots_on_goal,Nazem Kadri,under,2.5,-156,2026-11-27T20:43:15Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Jack Eichel,over,2.5,-164,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Jack Eichel,under,2.5,125,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Shea Theodore,over,1.5,-106,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Shea Theodore,under,1.5,-122,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Tomas Hertl,over,2.5,116,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Tomas Hertl,under,2.5,-152,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Trevor Connelly,over,2.5,150,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Trevor Connelly,under,2.5,-198,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Victor Olofsson,over,2.5,136,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Victor Olofsson,under,2.5,-178,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Will Smith,over,2.5,132,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Will Smith,under,2.5,-174,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Tyler Toffoli,over,1.5,-115,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Tyler Toffoli,under,1.5,-113,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Macklin Celebrini,over,3.5,112,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Macklin Celebrini,under,3.5,-146,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Mitch Marner,over,2.5,122,2026-11-27T20:42:35Z,2026-11-27T1543
+80ad2e83d5b53a2f48a70cfdecd3dc5c,2026-11-27T21:00:00Z,Vegas Golden Knights @ San Jose Sharks,fanduel,player_shots_on_goal,Mitch Marner,under,2.5,-160,2026-11-27T20:42:35Z,2026-11-27T1543
